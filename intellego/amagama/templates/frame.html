@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Intellego</title>
+
+    <link rel="stylesheet" href="{{ url_for('web_ui.static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('web_ui.static', filename='css/amagama.css') }}">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body id="parent">
+
+    <div id="wrap">
+
+
+      <!-- HEADER -->
+      <div class="navbar navbar-inverse navbar-amagama navbar-fixed-top" role="navigation">
+        <div class="container">
+
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Intellego</a>
+          </div>
+
+         
+
+        </div>
+      </div>
+
+
+      <!-- PAGE CONTENT -->
+      <div class="container">
+          <iframe src="http://localhost:8888/get_page?url={{url}}" seamless="seamless" frameborder="0" marginheight="0" marginwidth="0" width="100%" height="700px" id="targetFrame"  onload="MGM.translate.init()"></iframe>
+      </div>
+    </div>
+    <!-- JavaScript imports -->
+    <script src="{{ url_for('web_ui.static', filename='js/vendor/jquery-1.11.0.min.js') }}"></script>
+    <script src="{{ url_for('web_ui.static', filename='js/vendor/bootstrap.min.js') }}"></script>
+    <script src="{{ url_for('web_ui.static', filename='js/amagama.js') }}"></script>
+    <script src="{{ url_for('web_ui.static', filename='js/underscore.min.js') }}"></script>
+  </body>
+</html>

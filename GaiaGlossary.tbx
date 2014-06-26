@@ -1,0 +1,5464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <sourceDesc>
+        <p>Translate Toolkit</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="e746820b-5d12-49d4-95b3-bb9434738efc">
+        <langSet xml:lang="en">
+          <tig>
+            <term>term</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>es</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5ebb4daf-e337-493c-b69b-4259a88a17c8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>About</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Acerca de</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d322af45-ba2f-4519-8818-33d87d5733ff">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Add</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Agregar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ca39e8ab-e5e0-4911-a8ee-ee4c82b3fc62">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Address Book</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Agenda de direcciones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b9526999-bd5a-4f50-86d4-4aaf622425bd">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Airplane Mode</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Modo avión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="114629d7-f62d-41bb-90e1-8a5b274b815c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Align</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Alinear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="42e8c5d5-8ade-4d0f-a396-846e89e441ec">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Alignment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Alineación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="51ac69cd-4372-47f8-b190-c78c1ae8f71c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>App</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Aplicación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fc6cd280-36e4-4bbc-baf6-277175951b3e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Apps Developer Preview</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Versión de prueba para desarrolladores de Apps</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f857ca5d-e647-45e2-8444-ed220bd4c6a1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Assistive tecnologies</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>tecnologías adaptadas a usuarios con necesidades especiales</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ff834515-322d-4560-9c43-9ac068c927fd">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Attach</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Adjuntar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="696daccd-c0a8-4ce3-8bce-ab24af8ea315">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Attachment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Adjunto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="de6e60a1-8390-49f9-a996-12e2987db9f8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Authentication</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Autenticación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1f016cb9-21d4-4683-9d95-4adfd28b2a4d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Auto-detection</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Detección automática</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="df1af3e0-63df-45b5-8a9e-8159e60a5831">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Autocomplete</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Autocompletar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d4a1917a-4a44-4612-9c90-5c1e9e5e7123">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Availability</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Disponibilidad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6c51c786-624f-4ef9-98b0-223f11aa750a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Awesome Screen</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Pantalla Alucinante</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="15b536e2-08a9-4d27-9391-fd290cd40c24">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Back</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Atrás</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f00bf2be-680d-4828-8372-1da293272a52">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Be offlline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Estar desconectado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="65f39b16-99f3-487f-af1c-1faeffecafb7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Be online</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Estar conectado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="de702595-1379-4655-9070-e62573d41c9b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Blank page</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Página en blanco</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="48b718e3-811f-4bcb-b2a0-26ad909be0d4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Block</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Bloquear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fadaf21f-a67e-4c73-9554-472590a8b294">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Bookmark</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Marcar, marcador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="98ad5a5e-34ed-41a3-86fe-18c5daac15f3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Border</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Borde</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="544c9f87-d509-4e0a-9b43-f860f59be356">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Browser</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Navegador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="35a4a09b-c4a0-4db4-be69-142bae0acd98">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Button</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Botón</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="be7d228f-19e8-464b-9aaf-9380c0b50ced">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Button labels</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Botones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f2dcfeac-d9fd-4a89-82bd-f58e243b776f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>By default</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>De manera predeterminada</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6666bf89-1dec-4dec-9f0f-6bf1de90bb2e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cache</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>la (memoria) caché</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5ac3c328-ac03-43fa-91c6-abc13a8579c4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cache Options</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Opciones de la caché</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3fb9a742-e031-455f-a9d4-0d2243418781">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Calendar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Calendario</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9f5626bb-cda4-4f4e-884f-17f0b81a56bc">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cancel</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cancelar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="955e5d2c-f59d-4bef-826c-5387d6ef11da">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Certificate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Certificado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="569bb7c5-9bf2-4637-b42e-447d4c4551eb">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Character Coding</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Codificación de caracteres</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1e3f439d-e1fc-4e6c-a2d1-2d8758f269a9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Charsets</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Juegos de caracteres</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="915356da-dcf8-48a9-b4bd-f512cfd5f0fa">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Check Box</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Casilla de verificación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e1ad26e1-bc6a-4735-814a-ff54fb2ef0cd">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Check Spelling</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Revisar ortografía</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7c7ea5d7-db35-4c66-841c-96a192baa031">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Clear</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Borrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d1ba0a20-245d-4b83-8b2f-307e7f438982">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Client</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cliente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="095bd682-5210-4ac3-ad10-df38520874fc">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Close</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cerrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d8428739-3adb-41a5-bf2c-1ae257db7e8d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Collapse</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Contraer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="36a51960-00b5-4716-97b7-48d9451ea3f0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Command</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Orden, comando</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e40d3284-e816-4baf-a7f7-5e6dbf03e07d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Compact</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Comprimir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d2cba2cc-8884-4e66-8d0c-0e34cdcd2eb0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Compose</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Redactar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="36b531c4-2c38-41f8-b5be-07b9b824da37">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Composition</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Redacción</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="34477483-b9fb-4879-8c92-45acb90c2665">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Configuration Error</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Error de configuración</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d652e589-9b1f-4ec0-9beb-c568e71a875b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Confirm</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Confirmar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="078be94f-a337-4a95-87fd-f0097e073711">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Connection</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Conexión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a679c000-9309-4b0f-a686-73337fa358e9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Console</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Consola</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9045f3ab-b284-4f72-9438-2b78c0e7881d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Container</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Contenedor</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c934007c-4793-479f-a9ea-658f9d90ee82">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Contents</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Contenido</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fbbf4055-c70f-4dd2-b8ab-694749d900a2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Convert</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Convertir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4fb50717-eff9-4035-b22a-9e7c0e24121f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Copy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Copiar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b1df1cf1-4df3-4003-b71b-77693ca9c9dd">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Create</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Crear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a223ed25-1159-47d1-8b66-c8252af368eb">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Custom Keyword</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Palabra clave personalizada</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="37ee1bb7-8d3d-42c6-aedd-58dec3f4a89f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Customer support</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Asistencia técnica, servicio técnico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="36511c49-396f-480d-932f-62807b72bd84">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Customize</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Personalizar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="eea50fd7-f523-4db7-9eac-b4b97b504e9e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cortar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="478cac1a-6b19-4c3d-a073-b6ba7961f89d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Debug</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Depurar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="dee3525f-b034-47a7-9749-f5eeb6a920b9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Debugger</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Depurador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1671adf6-ceb9-4338-acd7-71f0792ab60c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Default</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>predeterminada/o</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="894fda0f-41f2-4ecd-b4b9-b9f7b3be19e4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Descending</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Descendente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ed60b1cb-6675-4c07-9d1f-facd6ee49d4b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Device</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Dispositivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e1a18482-8499-42b7-bd01-b9bff73d60be">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dialog box</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cuadro de diálogo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="731e86b9-e20d-497f-adba-508921dba06d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dialup</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Marcación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="340ba5a7-76e1-4f11-baa6-fbeaab1d2315">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Digital Signing</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Firma digital</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6056d788-5efc-44b6-8960-0efaecab4a64">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Directory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Directorio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="18324250-c032-48fc-b9d1-2864d8e04566">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Disable</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Desactivar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="78172716-259b-42d0-9c0b-5667714f9dba">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Disk</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Disco</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="63544df6-3fe6-4fde-ac35-282e5cee93ea">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Disk space</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Espacio en el disco</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9b27d938-daa5-4393-a68a-9955fc27e605">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Domain</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Dominio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f1747d44-e00f-42ec-82f3-3a7f5df265ac">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Download</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Descargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f505846b-18c7-428a-914f-d7544d51f252">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Download Manager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Administrador de descargas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="dae4de52-86f9-43fb-9374-77e3c837d415">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Downloader</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Descargador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1937e194-3a61-446d-bc26-25765346f87d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Draft</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Borrador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="04aff8d3-4e2e-4f12-95fc-5323bcd51e70">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Drag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Arrastrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f1e03d87-348c-4442-b217-82dc31333880">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dump</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Volcar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ea317ea0-0494-4839-ab89-5603cc0a1525">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Duplicate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Duplicar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9558b24a-41eb-4b18-934f-4831ebe5e787">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Edit</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Editar, modificar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="27b462e9-e009-4fef-8f79-8f6181a8e87e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Elapsed Time</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tiempo transcurrido</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="690684cc-db38-462d-9f89-3e4d91cf4a4b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Email Address</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Dirección de correo electrónico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2c61876c-9b17-4bc7-a8f5-1a66125cb594">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Email Address reminder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>recordatorio de la dirección de correo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2dd0a392-e41f-4616-a316-abb6f3ef2a1c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Email provider</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Proveedor de correo electrónico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="de7cbb8c-4943-4570-9f31-759ad064fcff">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Embedded</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Incrustado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="719dcd94-47ee-471a-814a-9de382191a5d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Enable</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Habilitar, activar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3a7da1fb-1a73-43d3-b7a2-3ac0d96cecaf">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Encoding</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Codificación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7c93024c-abc0-4ada-992e-2959cbf659f0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Encrypt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cifrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="84693713-cd71-44d5-af49-03286dcb7f76">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Encryption</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cifrado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="99152298-870a-4f66-b1e2-7d20227194c7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Encryption strength</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Fuerza de cifrado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ebe2fa64-14da-4d4c-b222-dbeb7941b0e0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Engine</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Motor</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b02d4817-754c-4e2e-8c93-aa26c2a97188">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Enter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>escribir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="33674070-8e6b-4503-b744-e07a7e1224f8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Erase</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Borrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5218d753-330e-44e0-ac13-26283a49744a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Expand</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Expandir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3a46db54-4aa7-45ad-9cce-faf8bc8c0de6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Expire</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Caducar (no expirar)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="673f25de-3e26-4f93-ad55-4a2a152cfbcc">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Export</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Exportar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f194d68f-29a5-4d1b-b9f3-70fb808bd5e9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Expression</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Expresión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e844af17-59e2-48f2-895e-2b75c77d1f63">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Extension</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Extensión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9c91df86-7dd8-498c-a707-259bd63d5a85">
+        <langSet xml:lang="en">
+          <tig>
+            <term>FAQ</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>FAQ/Preguntas frecuentes (dependiendo del espacio)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4369a304-b731-4f48-a78d-1c37287788b7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Failure</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Fallo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d5b0b732-ec58-405f-97aa-b3eeed872998">
+        <langSet xml:lang="en">
+          <tig>
+            <term>File</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Archivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="839ff8da-733f-44d3-b2c3-3e35daf80ba2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Fill in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Rellenar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="07015ab0-ae92-401b-9254-409046c784af">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Filter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Filtro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="54251276-2e5f-46b2-b96c-dbb6e2c0bbb7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Filter Log</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Registro de filtros</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="124779aa-9d28-4859-b511-775f75ef7884">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Filtering</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Filtrado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e39f245f-a82b-4127-9423-96c466aa1be8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Find</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Buscar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7216206d-5c12-4bf0-b584-db48e1a400d3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Find Results</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Resultados de la búsqueda</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9dc977b5-443c-455b-8c60-327f09b240e0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Find and Replace</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Buscar y reemplazar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="898133db-4a79-4723-b90f-6033bcfde7d0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Finish</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Terminar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0c6c0c25-213d-4ea7-94ac-740a492c796b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Firefox Marketplace</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Firefox Marketplace</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="76fb5752-9481-4a0c-99c1-2923aae43d21">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Flag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Indicador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="228ea160-0693-48b2-8b82-405d8f098554">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Folder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Carpeta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e2f655eb-3e7f-4a5e-9904-80cfd957c473">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Font</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tipo de letra</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d0b03d27-da6c-4c44-bdd0-ea0b0764f4a3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Form</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Formulario</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9c72e191-cd94-411e-b5d1-71743c9acf46">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Form Manager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Administrador de formularios</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="cbe2414a-7cdf-4665-b3df-9da205301296">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Forward</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Siguiente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0a4f8337-1a75-4ecf-b688-be5a84848588">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Forwarding</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Reenvío</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bdb3330e-8656-4786-a883-59630fee2d91">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Frame</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Marco</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9af04b2d-bf25-489c-aae1-4e7106bc71c2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>GB</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Gb</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4af48164-27a4-4e93-8827-09af39a253c7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Go offline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Desconectarse</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f079f5b7-d1d9-47b7-a336-8eea2261569d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Go online</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Conectarse</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="678e7e16-06df-42dd-803b-4879f8416881">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Group By</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Agrupar por</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1cc08010-72af-4e81-b709-877537a84d0a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Handler</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Manejador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c5fbe6e5-67e7-4c5b-9c06-62231a224514">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Help</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ayuda</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="eae01055-945d-4e61-921a-45618f89b2d8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Helper Applications</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Aplicaciones auxiliares</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6573be6d-6320-4deb-8847-ad9006ad14d0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hide</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ocultar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8f51b637-9f6a-4fad-9778-9eeead6d4277">
+        <langSet xml:lang="en">
+          <tig>
+            <term>History</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Historial</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="663ad29a-e6eb-4e8c-ba40-e5de1e310cf7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Home</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Inicio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="45623565-258f-43dc-81c6-12e5813e295f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Home Page</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Página inicial</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="65bd0101-55f2-43e4-a3e1-ee4828829127">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Home Screen</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Pantalla inicio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="96808b9d-7ef8-4610-8323-74e4f1734b02">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Host</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>host</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c3842c29-75b0-4469-bd7f-4634a61c8ef4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hostname</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Nombre de host</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="30b4bca0-0909-4fcf-b9c9-0280512b2e24">
+        <langSet xml:lang="en">
+          <tig>
+            <term>I/O</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>E/S</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6be22c79-2369-47f2-a087-250c0115ca57">
+        <langSet xml:lang="en">
+          <tig>
+            <term>ID</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Identificador del cliente o id. del cliente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1039247d-47eb-4158-8ba3-14b26aa5ed1c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>ISP or web hosting service</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ISP o servicio de alojamiento Web</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d8e1554a-ef24-40b8-9b6b-ec8a45da34c7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Import</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Importar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4822688b-28d9-4771-8632-a3d55daae7e8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Incoming Server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Servidor de entrada</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="69b79672-1bf4-4121-acce-4cadb443a492">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Index</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Índice</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7a38d660-f3a5-4972-8416-5548d0fee539">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Inspect</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Revisar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6f38d743-f4a9-462d-87ba-e62f1365b061">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Internet Service Provider</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Proveedor de servicios de Internet</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="17116320-db55-45ab-ad6c-257d5b6ba631">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Item</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Elemento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="090ea6e2-2b9a-4fd0-84ce-fac97159a776">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Java</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Java</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="40b820e5-0e47-4ecd-bc6f-562dbeb58a0b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>JavaScript</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>JavaScript</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="465116c9-2320-46e0-aad8-6438da1f6d90">
+        <langSet xml:lang="en">
+          <tig>
+            <term>JavaScript Debugger</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Depurador de JavaScript</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e298dec5-ba21-4d2c-a6ac-18aa2f493f97">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Junk mail</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Correo basura</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a8330519-9a4e-4911-95b7-860958310f1f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>KB</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Kb</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0a09f10f-cbca-430a-a05a-be1e0074ab44">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Key</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tecla</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f5fed49d-bf1e-4a52-8c84-c158e206b0d2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Keyword</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Palabra clave</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f62c4adc-89d1-46f6-ab64-5c2841457fa9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Label</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Etiqueta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="737070ec-7e93-4b9e-af1b-adaaf7a13e65">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Language setting</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Configuración de idioma</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="382a065a-8f24-45cf-84e6-292407adab14">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Last Modified</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Última modificación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fb6a2d81-817f-4c54-b7de-d654523a943f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Last Visited</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Última visita</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="eb434ca6-d5f2-4557-b41a-288b69d6b351">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Launch</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Lanzar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6f31d53d-d636-485d-8feb-c2f1ae05f141">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Launch File</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Iniciar archivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="94334a5a-2694-423e-81a8-9819a47fb5c6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Link</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Enlace</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d03061ff-cdf6-4cc7-8dda-a4f5e67fc5be">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Load</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c9ae5759-8bac-43f1-b2da-3897b589ca48">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Local Data</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Datos locales</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b8d86e34-60da-48c8-bf72-2ba4311823fd">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Local directory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Directorio local</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="522ddc12-956c-4661-b8b4-5c399e1b4728">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Location</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ubicación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7a9784a2-43b4-477c-a024-97baeceb4dce">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Location Bar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Barra de direcciones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="63d378b5-f542-4c1b-82b4-199596dcc868">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Lock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Bloquear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9bdf0f2d-c627-4290-86d7-a3aaca47430a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Log</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Registro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="66910e70-2f63-452f-83c3-3e4467a86997">
+        <langSet xml:lang="en">
+          <tig>
+            <term>MB</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Mb</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1be0d641-1f11-485a-83f0-82c56e60cb90">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mail</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Correo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0a5f0c84-6158-412b-96b6-c51a666eecfa">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mail account</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cuenta de correo electrónico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fcf7fc8a-a2cf-484f-94c4-617d057cc1aa">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mailing List</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Lista de distribución</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9d3bc36e-1024-44f8-a378-b10b1b2d40f0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Manage</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Gestionar, administrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8e11b263-bed0-4fe1-a919-95bfd7c9be6c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Map</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Mapa</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0ae4c8fe-b49c-4f00-9974-bb81cf619bcf">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Master password</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Contraseña maestra</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="dc4e38c2-078e-4fe0-9f00-9b518b0e8f04">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Match upper/lower case</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Distinguir mayúsculas/minúsculas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4132e209-de81-4cae-bb33-21be7309ff30">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Matching</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Resultados coincidentes</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9c817afe-c6a1-4806-a888-0468f4d14f41">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Memory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Memoria</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="21b16f43-a53d-4916-a355-c38f2b1d0d39">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Menu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Menú (plural menús)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9d312f0b-7e46-4e72-b98d-5b226cc788b3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Message</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Mensaje</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="17d44013-55a5-4a71-aece-436d0d3d50ee">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Migrate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Migrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4500ca9e-b7b6-4197-8778-5a1d2e00bdd2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Migration</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Migración</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7144558b-dfac-4f66-82b3-c6383faf9c57">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Modifier key</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tecla modificadora</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="27aed92b-8748-4ad1-b502-9a8443d03b41">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Modify</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Modificar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="08ea002f-14a1-4ba6-ac4b-f02587d3a14c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Move</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Desplazar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="674c9860-fd63-45da-81ed-834d64ae0c2a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mozilla Web Apps</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Aplicaciones web de Mozilla</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0120965f-6709-4a77-8bc0-cc529a588070">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Name</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Nombre</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="709e23fa-d42e-4bfc-9aa5-28d05bf7a7f1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Navigation Toolbar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Barra de navegación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="64f5e46d-0535-4e1f-a9ba-55cd96fcd29a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Networking</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Red</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7a1eb85d-47c4-4ff4-952f-aedcd0dafaac">
+        <langSet xml:lang="en">
+          <tig>
+            <term>News server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Servidor de noticias</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b1375b53-f832-438c-bac5-b79c8aed057d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Next</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Siguiente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2de43313-dfc9-40e9-8587-302fb80cc311">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Nickname</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Apodo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fae8aad5-9ccf-48a5-91c3-9adcafde7031">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Node</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Nodo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aff6c5e0-25a5-45f3-8f46-2c2598ea15d4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Notify</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Notificar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="02240c36-63a9-43ab-b1f5-01c4453a8e87">
+        <langSet xml:lang="en">
+          <tig>
+            <term>OK</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aceptar (no OK)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bcf8ea2d-7349-40f6-84e5-434625f17c13">
+        <langSet xml:lang="en">
+          <tig>
+            <term>On</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Activado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b3095469-e77e-435f-9ebd-c7378747d84d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Open Web Apps</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aplicaciones web abiertas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0b71ca1b-570b-430f-b4a1-5107726bf0fc">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Operator</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Operador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e7a5ead2-b48b-42ce-a247-c21ae792f52c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Originating server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Servidor de origen</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2c1fd076-ea1e-49f1-87c0-43bcd3dde2bb">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Outgoing Server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Servidor de salida</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="67a54b68-6e8b-4851-8b72-42349d3379ea">
+        <langSet xml:lang="en">
+          <tig>
+            <term>PIN</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>PIN</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f70432ce-18e1-4526-9b08-c21ab478ec26">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pack</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Paquete</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b0587e33-b047-4e30-982e-24cf518a77b3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Localizador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d0b6c09e-a76c-4fdb-a61b-5cbf748b646e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Parameter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Parámetro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="db0ddaca-4f99-4c04-a6de-aa54feb4b3ee">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Password</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Contraseña</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="cdfa9d29-2362-4166-a624-0429b0b86ba6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Paste</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Pegar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bbe6e64b-69e5-452e-9ae4-132fa6e3fd2e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Path</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ruta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="eff366f4-6634-440e-b547-c1091d8c4aad">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Performance</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Rendimiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ebf77e1e-31f5-4aa9-b6b5-326d34debb68">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Personal profile</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Perfil personal</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bff1a59f-0e14-479f-a747-d849571d2b2f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pictures only</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Sólo imágenes</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2168873b-afe2-43b9-aa51-9e540e1097ec">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Plain Text</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Texto normal</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4fac3012-c753-404d-a4f6-f3fce87f6857">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Play (a sound)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Reproducir (un sonido)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c9bf8789-1012-4039-94ed-e3dd9447f9dc">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Plug-in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Complemento, plugin</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="be71776f-6964-4b2b-a1ad-2475ea084e75">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Policy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Política</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c11f7d1d-a072-464e-b2ac-ede4561532e2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Port</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Puerto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="918d7b78-d319-4be9-a0be-3c88e6c9d89e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Preferences</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Preferencias</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="65e3c9dd-9b85-4b24-8970-614f7bf63060">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Press</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Pulsar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7865d219-bce8-43c0-894b-774bcf8ecc79">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Preview</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Vista preliminar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5706a4eb-b3aa-4f50-b02c-8fe60cbaf6ea">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Privacy Policy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Política de privacidad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1cb85c99-9ad4-4bb2-a724-9ef66c701a1b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Profile</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Perfil</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b224185c-c958-45a0-b293-5b422035f7c3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Prompt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Indicador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="de082884-b5a6-4ad1-96d4-4aebbaca4d37">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Properties</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Propiedades</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fe2ead80-320e-4017-b924-93e7b81fd1f9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Proxy configuration</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Configuración del servidor proxy</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e055bbe5-a190-4b80-919c-e642bb7debd7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Publish</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Publicar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="32a7ff83-b06f-4a81-a694-aea86e350af2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Query</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Consulta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ca55b5ea-a5fb-423c-a402-7a23a920b240">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Quick Launch</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Inicio rápido</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5b4b7ca8-7c3d-489e-bb69-213b91b45791">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Quit</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Salir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a46e114f-9c77-4251-bf56-e90f592e8bce">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Quotation</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cita</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="609573dc-586c-4e7e-aa49-bfff61742031">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Read Only</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Sólo lectura</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6e790ae9-37e1-4ea4-b225-5c8218e6f152">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reader</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Lector</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1bb12677-a971-4f4a-8799-9739abb3636a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Recipient</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Destinatario</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="db32f8fe-8f54-4851-9036-7df9c8aa327c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Redirection</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Redirección</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="47293282-74ff-44dd-b7c9-c60c34f57d25">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Redo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Rehacer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b4f80f70-6a55-43f8-b94f-fdb9ae7e410d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reference</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Referencia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1599497e-eadc-41ee-9945-73f072001b9b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Refine &amp; Polish</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Define y perfecciona</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="760f436c-8c10-4d40-9465-f87a084f82d4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Registry</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Registro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9dfd204b-cea9-46d6-af59-334a9d508137">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reload</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Recargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="311417de-2c6e-4ddc-8783-0b442bbacce8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Remove</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Suprimir, eliminar (no remover)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="de74d3a3-ec37-47c3-8bcf-a9d6ae6bb80f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reset</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>restablecer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4d30983a-5c6b-4946-a09c-60d33ce6006a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Restart</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Reiniciar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e34b37c2-4ca6-4704-b7ab-d7d22da4a2e3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Retry</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Reintentar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9694df08-51af-4446-9d8b-02ff17401b7a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Return Receipt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Acuse de recibo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="15aa1830-eebe-4b61-94cd-bf5286ff3841">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Revoke</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Revocar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9b67ba07-aa94-43dc-aa41-9cb39bca58c2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Roaming Access profile</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Perfil de acceso móvil</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="73126037-8739-4d21-9ee4-e4b2dfd97465">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Run</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ejecutar (no correr)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1a483c21-fe14-4f4d-8107-570d97e32b55">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Save</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Guardar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e901a2bd-2ac2-4ce2-9c15-c45c8e1b16c0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Save to</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Guardar en</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="12f06b98-6a9c-4460-af2e-e0ef58a4ce26">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Scale</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Escala</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="13422800-3b16-4bb6-8b1f-c56f90bba8f5">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Scratchpad</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Borrador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="44a083ef-a0c2-42b1-b8f1-b0a3fe0cc697">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Screen Name</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Alias</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8d112444-a8ea-4728-b141-6a4538f694a6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Script</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Secuencia de órdenes, script</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="319dabbf-5724-4c8b-afa5-b952cbb0e9e3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Search</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Buscar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7a2a4836-3c01-4041-8281-f723d727547b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Search backwards</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Buscar hacia atrás</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="71ed5305-0643-487f-a479-204a157ad997">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Search the</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Buscar en</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="85ceb089-fe98-44c9-a6ab-e485e9911cdb">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Security Devices</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Dispositivos de seguridad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e45d8218-f3a5-45ab-b2bb-ff101302d824">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Security Policies</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Política de seguridad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8ad53e9b-68e7-4734-90fb-a694365d566b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Security manager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Gestor de seguridad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5f81621f-60b8-416e-b83d-d85dc77125f4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Select</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Seleccionar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f2f11253-72f2-4487-afe7-e39156ec71ec">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Send</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Enviar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="73b1043c-ce59-40b9-b23f-ba2c395496e7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sender</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Remitente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="922795e5-889e-4ed3-9cbb-f1bdea63bca0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Servidor</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="423071a5-1b85-4e54-9c26-183162ea928d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Session</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Sesión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5bd6a9cd-d035-4a0c-a40b-f59528b5ca64">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Set</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Definir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="cd2252a1-7efd-4127-80f1-9a87891e9386">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Set as</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Definir como</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b8e012e3-4668-4fb4-ba1b-0112de9930c8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sets of settings</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Conjuntos de valores</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c35c8506-20ea-48b2-809a-5f68aaa5ddd3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Settings</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ajustes</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e2721e33-1644-456f-b682-66b240f0aabf">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Show</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Mostrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="21a2fe3f-5068-468b-bc3a-07e745b20dc1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Show as</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Mostrar como</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fcff525c-4009-4f9a-a47e-924e96533d19">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sidebar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Barra lateral</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e2a0ae4e-b5d4-454e-aff2-71afb35fc9a9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Site</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Sitio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="521b7c9a-4b89-4993-9c72-956def162a5f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Size</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tamaño</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d58b43ba-842e-4cb1-8893-a65716783b99">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sleek</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>impecable</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="666052ff-3ad7-4e4f-8225-ce1b74d4be0f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Slot</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ranura</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="750192cc-4150-48b5-84cd-4f6620836f40">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Smart card</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tarjeta inteligente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d2d0ca42-af6e-45c4-bd8b-338c3be3106b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Socket</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Punto de conexión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ceba23fe-147e-4474-b0f1-d744b02ea817">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sort</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ordenar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="68b57a8c-8826-479d-b99a-05442f556c29">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sort by</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ordenar por</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f52bbb0a-e3c0-4270-a036-830b1ddc0ac4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Source</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Origen</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a25bd2e6-43f4-484f-af14-a1b98cbec1de">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Source file</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Archivo de origen</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1e54dc08-1c91-4f2e-9075-0dbd0eb91435">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Spacing</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Espaciado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f047988a-d409-45ec-a9ef-cc50e1a3fe7d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Spellchecker</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Revisor ortográfico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8169cfce-6ad0-47cd-abc4-dad70757445d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Stack</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Pila</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3ab78347-1522-4733-ab89-f20446972a95">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Startup</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Arranque</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5aa56a37-e0b5-43dd-b5ec-b864f1841fae">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Status</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Estado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a99ef19c-7e9f-412b-9e0f-fdf2f3dc46b3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Status Bar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Barra de estado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="59e9429c-ea2e-40be-a0a2-28c11bab6a5f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Stop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Parar, detener</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1ee03d32-5765-4261-9dd8-a4e083f18b88">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Storage</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Almacenamiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6ebfcc0b-aa7b-44aa-a55d-121c20b59fb6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Store</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Almacenar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2304408b-2a70-4360-b0b8-4eeba3c82054">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subdirectory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Subdirectorio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3c9e1831-3ae2-4e2c-86e4-49a43953c9f1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subfolder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Subcarpeta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ba0fd040-a806-48f7-af24-c058013acf38">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subject</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Asunto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="489bf519-2291-4ffe-95f1-279a25828aaf">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subscript</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Subíndice, subscript</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ecd83245-47ce-42e8-88b2-43da70ad9174">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Support</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>admitir, ser compatible con (no soportar)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="00b3bd4d-d2b1-45ab-83fb-d656239ac6e8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Synchronization</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Sincronización</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="77b220f9-f8d0-4866-86c8-1e0aa2308f5e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Syntax error</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Error de sintaxis</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1e8a854f-000f-4105-b0f0-664e11c2f164">
+        <langSet xml:lang="en">
+          <tig>
+            <term>System administrator</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Administrador del sistema</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e91b79ab-e61d-4970-ac39-3222106a1c9a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>System default</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Valores predeterminados del sistema</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a8f32c8e-0e85-4482-92f4-fcdae2091427">
+        <langSet xml:lang="en">
+          <tig>
+            <term>System setting</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ajustes del sistema</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b743dace-d268-414a-9453-9aa25ea5cfe4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>TB</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tb</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2871ccd1-91f9-4c0b-a59a-6ccccba0a4fe">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tab</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>pestaña</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="40a54e0c-77d3-488b-ae96-8f00d8733ff0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tab Index</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Índice de tabulación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c6b96bea-a793-4299-9be8-45bc93b28527">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Table</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tabla</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="04d92f75-d55d-4f96-81a5-8b3a40a69707">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Table of contents</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Índice de contenido</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2fa567fa-b625-4160-8cb4-ab4231a3c51a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Etiqueta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="cfc72ce8-3bdf-427d-8705-9358ed92754b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>pulsar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3be97b2d-fec2-4a43-9805-d2ce36c76c62">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Target Frame</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Marco de destino</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="81fd4dc8-b4bd-44b2-a9a3-1a83798eab51">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tecnical support</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Asistencia técnica, servicio técnico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f6407b5b-694d-4f8d-83bd-46c1d7f95d0e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Template</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Plantilla</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2197e1ab-ca27-4cb8-bd07-083460578f72">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Text only</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Sólo texto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="30f82ee4-a8b8-40a3-a96f-ac575e30d859">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Time Left</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tiempo restante</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="dd06f714-2dc4-47c5-84dd-9e593ce7cb84">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Title</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Título</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2ac2a72c-e4ae-41b3-b7e4-d17c16878fa6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Toolbar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Barra de herramientas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ab82b7e1-ed1b-44c5-9557-84185e9bdd42">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Trigger</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Activador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="eb653ac7-8789-4c29-8db5-4dc6e3963105">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Troubleshooting</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Solución de problemas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="550177e0-4acf-483a-94ee-fca8f799d5ae">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Typeface</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Tipo de letra</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="30628e7d-516d-46ea-95e0-c41582c65eed">
+        <langSet xml:lang="en">
+          <tig>
+            <term>URI</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>URI (masculino: Identificador Uniforme de Recursos)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c16ec282-e7f9-4511-bfa3-dcbdd6c72c3a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>URL</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>URL (femenino)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="575d63b4-aab7-457f-b0b0-ad7b66a59b8a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Undo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Deshacer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b5c9c527-c8d1-4030-9677-0d70267e812e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Uninstall</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Desinstalar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="05c82c98-4726-4cc9-8836-423d73bb156e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Unlock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Desbloquear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a7f00060-9914-4408-bdcc-562ec26cc976">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Unsorted</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Sin ordenar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c1a3c400-49dc-4033-94e1-11aafb880712">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Update</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Actualizar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1af5826a-5d7f-436a-9566-1322d9cc9875">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Upgrade</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ampliar (versión o licencia con nuevas funcionalidades)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8ba7f337-a036-4c7d-aab3-67d78abc5098">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Upload</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="dc00de0d-ebfe-4ebe-8032-70c2037b619b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>User</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Usuario</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5da387e2-3b19-41f7-99cd-14c2aadc2200">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Validation</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Validación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2c4acce9-1c39-4a2d-8c99-f52699c6962a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>View</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Vista</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="cae6339f-ad5c-4e12-9177-47255bfdeea0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>View Menu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Menú Ver</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="545be620-1837-41c8-88c7-959d2de31f27">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Viewer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Visualizador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f3223393-1c1d-455f-90f6-9019987c40b7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Visit Count</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Cómputo de visitas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a87d9b09-7871-4aad-9dcb-d9f127fb89b0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Voiced Status</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Estado de voz</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4d942b54-ec79-4831-bf4d-8eccf2c64ff6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Web page</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>página web</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="00209c8f-16e2-46e5-bd00-9c8ced65c824">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Web site</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>sitio web</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c7dafc14-b37a-418f-b3e2-e086334259d9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>What's New</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Novedades</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="86467b75-465e-48c3-9b63-ff22eabe75d6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Wi-Fi</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>wifi</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5ee8f0d1-ccf7-4a42-ae10-325f93650383">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Width</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ancho</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="67b78e9b-8e9f-46f0-90ad-a826b02a7153">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Wizard</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Asistente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0f205e26-331e-441c-9047-40ac01a4e6eb">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Zoom in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Reducir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c7501685-21f4-4ecb-9edc-ed175147c528">
+        <langSet xml:lang="en">
+          <tig>
+            <term>Zoom out</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Aumentar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ca41997b-d65d-468c-980d-69fafad7e2e3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>abort</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>anular (no abortar)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ba07a6b5-d1ac-4736-97c3-818b309d0fa1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>add-on</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>complemento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6543c2ba-e43a-4270-abfa-3b8dfc721387">
+        <langSet xml:lang="en">
+          <tig>
+            <term>app tab</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>pestaña de aplicaciones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="320f6ed0-8a74-4c03-90fb-55bea905b5a8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>application specific password</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>contraseña específica de aplicaciones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="02e194e7-7b52-41c5-b91b-6ec925d2f34f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>apply for</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>solicitar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="65e5e4fa-58c1-4fa5-b21c-4eb43d665f3c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>audio/video input</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>entrada de audio/video</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bf6f0214-6c14-4e00-922a-2fbd37dee251">
+        <langSet xml:lang="en">
+          <tig>
+            <term>binding</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>enlace</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b506d442-7a1d-4db5-934d-2c33068beda0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>bitmap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>mapa de bits</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="56c413ce-3bd7-4b3b-b288-d43b490a082a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>bootstrap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>arranque</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="101388b8-9060-45e5-bba7-11103905043f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>bubble up</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>lanzar, propagar, activar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="eb74b30d-bb8b-4f24-a39c-70f64c274368">
+        <langSet xml:lang="en">
+          <tig>
+            <term>buffer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>búfer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a17c19df-0a49-4160-bb96-60bc809a4813">
+        <langSet xml:lang="en">
+          <tig>
+            <term>bug tracking</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>seguimiento de errores</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="aa5e207d-2034-45eb-a613-1a5017765ec3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>check</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>comprobar, asegurarse</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4714a259-fb6e-4bfd-9aff-7d23ea971a54">
+        <langSet xml:lang="en">
+          <tig>
+            <term>click</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>hacer clic</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fe09dea7-c6e7-4280-89c8-5e4322b0e224">
+        <langSet xml:lang="en">
+          <tig>
+            <term>click to play</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>pulsar para activar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="32ff9a0e-1d4b-435b-ad87-55a31c3cb2d6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>clickjacking</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>secuestro de clic</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="527748a6-81de-4be1-8086-ca3b030ee28b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>cliparts</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>imágenes prediseñadas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bd1c72ee-f82f-4ebb-ae32-4ebe913212b1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>closing tag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>etiqueta de cierre</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5b1b598d-f6a1-4e99-985d-d2f3b396ee56">
+        <langSet xml:lang="en">
+          <tig>
+            <term>code snippet</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>fragmento de código</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f4d4373b-1185-4999-a828-3cf46a03afb7">
+        <langSet xml:lang="en">
+          <tig>
+            <term>computer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>equipo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="615b455c-efd0-4c46-8449-2b0b300c31d1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>configuration</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>configuración</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a0a1c162-2dfb-44d2-9af9-207d459a6148">
+        <langSet xml:lang="en">
+          <tig>
+            <term>contact</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>contacto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="687a49ba-88b3-42ed-b2d0-524943e6fe42">
+        <langSet xml:lang="en">
+          <tig>
+            <term>convenient</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>cómodo, práctico (mejor que conveniente)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f4565b11-cebe-43a5-a9a3-b316991694b3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>copy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>copiar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6c0202b0-88dc-4cac-889a-026f4df08321">
+        <langSet xml:lang="en">
+          <tig>
+            <term>corrupt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>dañado/dañar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="af551c91-ffab-4279-b4f0-91b0cf881a52">
+        <langSet xml:lang="en">
+          <tig>
+            <term>corrupted</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>dañado/a</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fc6e74ca-a6cd-4029-ac57-59adcfe22981">
+        <langSet xml:lang="en">
+          <tig>
+            <term>delete</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>borrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="44fe1989-3703-4025-8737-7a378512b0ba">
+        <langSet xml:lang="en">
+          <tig>
+            <term>deselect all</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>desmarcar todo/todos/todas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3df8a0c0-2058-4cf1-bb8e-7090399583d2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>disabled</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>deshabilitado/desactivado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="bd060d8e-eca5-445f-a415-08f41a7ad836">
+        <langSet xml:lang="en">
+          <tig>
+            <term>distro-based package manager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>gestor de paquetes incluido en la distribución</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ff20128b-9711-4dbe-93a9-9a1a6d733f56">
+        <langSet xml:lang="en">
+          <tig>
+            <term>done</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>hecho</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="275225e4-30d8-4f68-bf0e-cf11297635c3">
+        <langSet xml:lang="en">
+          <tig>
+            <term>e-mail</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>correo, correo electrónico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="930dfaab-3876-4707-8a1a-64c5b1c42885">
+        <langSet xml:lang="en">
+          <tig>
+            <term>email reminder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>recordatorio por correo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="66d7e1a4-ee0b-462a-a8c0-f9de8076e8d8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>enabled</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>habilitado/activado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="60e8dd44-aa3d-424d-8e14-118298efb12c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>event</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>evento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a4c34465-7e55-4f88-a835-b7aa097cabd1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>feedback</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>opinión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4596686b-c1ce-4302-ade1-c7a287fab102">
+        <langSet xml:lang="en">
+          <tig>
+            <term>find files</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>buscador de archivos</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2cdc750a-b552-440c-8000-a95f32ffe0ce">
+        <langSet xml:lang="en">
+          <tig>
+            <term>find files dialog</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>diálogo de búsqueda de archivos</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="084cc866-f94b-4aef-9a30-0c7181b8293f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>follow-up</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>seguimiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2c54f68e-bd3d-4b6b-aa21-64472743a790">
+        <langSet xml:lang="en">
+          <tig>
+            <term>grow a file</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ampliar un archivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3a37a7c1-140b-4508-a103-77dee8e5b406">
+        <langSet xml:lang="en">
+          <tig>
+            <term>handle</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>atender una solicitud, administrar correo, controlar un evento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="adfad673-d4d2-4388-9da1-df5506a74d9a">
+        <langSet xml:lang="en">
+          <tig>
+            <term>header</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>encabezado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="83ae68db-0a9e-494c-a22c-d4dd5359e6f0">
+        <langSet xml:lang="en">
+          <tig>
+            <term>height</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>alto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6ceb7397-b1db-45a9-a5ac-4cc814b0f1a6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>host environment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>entorno de host</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="98402d9f-dcbd-4d56-9bde-f7a1ea27b0aa">
+        <langSet xml:lang="en">
+          <tig>
+            <term>hover</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>desplazar el puntero, desplazamiento de puntero, activación por desplazamiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ab3ac6ac-f402-4263-ba9a-978bc9497c91">
+        <langSet xml:lang="en">
+          <tig>
+            <term>ignore</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>omitir, pasar por alto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="3e9eb209-86fa-456f-87bc-994ebed2bf6b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>inline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>alineado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a37aa8ae-519f-443a-91a8-7aa6c397fef1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>instance</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>versión, sesión; instancia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="dda527f1-369f-4e7d-85ce-163f9353a797">
+        <langSet xml:lang="en">
+          <tig>
+            <term>issue refund</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>efectuar reembolso</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9bf5fa04-50ea-4e10-b815-2cd8c7709f4f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>issued</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>efectuado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a17c734b-1e55-4566-bbcf-2c0620223f6c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>landing page</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>página de bienvenida</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="58f47781-3feb-4bb8-a7ec-c4b636f6ff89">
+        <langSet xml:lang="en">
+          <tig>
+            <term>landscape</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>horizontal</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="59d8abac-ff6f-4edd-903b-da44e9a6672d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>landscape mode</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>modo horizontal</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="07c52dee-c216-4c3e-be2f-70b8a120547b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>library</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>biblioteca (no librería)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7a434e6d-703f-48b0-83b4-4784a7a5bc3d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>location-aware browsing</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>navegación de acuerdo a la ubicación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9fa8195e-1e49-40b3-84c4-36b7624c8e87">
+        <langSet xml:lang="en">
+          <tig>
+            <term>log in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>entrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="82e90e6b-b9e6-4ba6-80f7-069f6d75bf46">
+        <langSet xml:lang="en">
+          <tig>
+            <term>management</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>administración</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c6cd151a-6b42-48af-a4cd-74f0068e0236">
+        <langSet xml:lang="en">
+          <tig>
+            <term>memory leaks</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>pérdidas de memoria</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ea097905-4d7a-4af8-a0f8-6bacd3a328ce">
+        <langSet xml:lang="en">
+          <tig>
+            <term>merge</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>combinar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a0ec3133-5d80-4837-8819-79d41cf570c1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>min</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>min</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d5aef8e4-4a5d-451a-9187-3c302b337da4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>need to</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>tener que</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7268f742-eab9-4293-a583-3ee693263e84">
+        <langSet xml:lang="en">
+          <tig>
+            <term>nightly branch build</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>binario diario de una rama estable</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="360cd3cd-a671-42bd-98c6-cf66ee37c276">
+        <langSet xml:lang="en">
+          <tig>
+            <term>occurrence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>repetición, caso</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6e7bf79b-4eaf-4a11-8ad7-775ec9346d14">
+        <langSet xml:lang="en">
+          <tig>
+            <term>offline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>sin conexión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="706c2cf4-4888-4c41-8c20-fd461e13d3b1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>online/offline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>conectado/desconectado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8580cbaa-f509-4364-a5ba-dbca0d2b5c2e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>outlines</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>líneas/aspectos generales, esquema, contorno (css)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="60203eac-695b-4b64-8c04-5cae7c99c253">
+        <langSet xml:lang="en">
+          <tig>
+            <term>overview</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>presentación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="0de7a7e1-c2d2-4102-b226-db40bccc7b9c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>pair</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>emparejar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="71e3b390-286e-49c8-9f17-54cb941d71b6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>paired</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>emparejado/a</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f62ea353-6687-4f9b-87e8-7fc13c4c1dc9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>parser</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>analizador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7fb9edda-b037-4ff4-b41c-e903261efbc5">
+        <langSet xml:lang="en">
+          <tig>
+            <term>passcode</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>código de acceso</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="a44e6e60-a59e-4bf7-a966-d78d9a13e9e2">
+        <langSet xml:lang="en">
+          <tig>
+            <term>phrasing content</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>contenido estático</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="976ed8ba-2432-4e4c-a680-d2a6106fa07e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>picture</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>fotografía</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e48b0590-fcd8-4989-963f-62e51bbf71bb">
+        <langSet xml:lang="en">
+          <tig>
+            <term>pin a tab															
+													</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>pegar como pestaña de aplicación/fijar pestaña</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="59b5fbc5-0383-4e19-9056-fe10d7c28347">
+        <langSet xml:lang="en">
+          <tig>
+            <term>playlist</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>lista de reproducción</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="34f27a4a-7c74-4223-81ba-0b6ec62b3b7d">
+        <langSet xml:lang="en">
+          <tig>
+            <term>plug</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>enchufar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="1b5b9f63-5fed-467f-aa80-731e06e42ff9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>plugged</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>enchufado/a</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="d870852f-2764-43e7-bb75-25bce6ed6c16">
+        <langSet xml:lang="en">
+          <tig>
+            <term>pop-up windows</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ventanas emergentes</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="79e94668-69dc-46a6-aeaf-2c6ab313efac">
+        <langSet xml:lang="en">
+          <tig>
+            <term>popup</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>elemento emergente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9d4f80c5-bb28-4ca5-b39f-543632ab6a1e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>portrait</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>vertical</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="61437835-d9cc-4b57-b83d-003f4f8b4839">
+        <langSet xml:lang="en">
+          <tig>
+            <term>portrait mode</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>modo vertical</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="65fc4a44-22b9-48c6-b53c-c4c5137e5d13">
+        <langSet xml:lang="en">
+          <tig>
+            <term>present device-aware features and experiences</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ofrecer características y experiencias en función del dispositivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4ee20a79-0e91-4286-bf62-3155570d7a52">
+        <langSet xml:lang="en">
+          <tig>
+            <term>prevent</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>evitar, impedir (no prevenir)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7c74eefa-5499-4e7b-b570-408039551bfa">
+        <langSet xml:lang="en">
+          <tig>
+            <term>price tier</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>franja de precio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fe533747-0a40-40e6-a10e-fa88bd29d3b4">
+        <langSet xml:lang="en">
+          <tig>
+            <term>proprietary software</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>software patentado, registrado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="93389342-dda7-431f-9b5b-dc2515de8c10">
+        <langSet xml:lang="en">
+          <tig>
+            <term>quality assurance</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>control de la calidad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="7a89942b-01d2-4c6b-ad0c-62a6f33970cb">
+        <langSet xml:lang="en">
+          <tig>
+            <term>radiobutton</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>botón de opción</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="34cfd79b-07aa-4825-8159-45be918a0d10">
+        <langSet xml:lang="en">
+          <tig>
+            <term>reminder email</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>correo recordatorio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e20fe26a-2ad4-4c28-b561-833550a46803">
+        <langSet xml:lang="en">
+          <tig>
+            <term>removable</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>extraíble</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ce3af7ac-2d97-4543-a1e9-7ef114a78a61">
+        <langSet xml:lang="en">
+          <tig>
+            <term>replicate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Replicar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="af64c2b8-0bce-4a8a-82fe-4119cce4a987">
+        <langSet xml:lang="en">
+          <tig>
+            <term>resize the window</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>redefinir el tamaño de la ventana</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="17eef995-9a5e-4894-90d5-c94d17b44a75">
+        <langSet xml:lang="en">
+          <tig>
+            <term>resume</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>reanudar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b711f50e-f092-4eae-ad48-94b33c2b482f">
+        <langSet xml:lang="en">
+          <tig>
+            <term>roaming</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>itinerante</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ec7e2857-824d-4836-9bef-dcb045b18a5b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>roaming area</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>área de conexión móvil internacional</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="2a2e66fe-005c-4c44-b3a8-5727f7322372">
+        <langSet xml:lang="en">
+          <tig>
+            <term>rundown</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>detención, parada; resumen</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="b0f95133-8854-452d-bb5d-5cb5ef7c84ba">
+        <langSet xml:lang="en">
+          <tig>
+            <term>runtime</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>tiempo de ejecución</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e80609e7-1468-49ce-85c9-f3b118020fa9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>scripting</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>scripting</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="be2e7d30-7e9c-488b-a1c3-642442641942">
+        <langSet xml:lang="en">
+          <tig>
+            <term>scrolling list of buttons</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>lista de botones con desplazamiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ca15a2f7-57b4-46e0-a812-fef047a70480">
+        <langSet xml:lang="en">
+          <tig>
+            <term>seamless</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>perfectamente integrado/a</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="da3cc16f-b728-4f26-9673-3b0320f22a5b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>search</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term></term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4f302f0f-971c-4cca-b171-88a74eb0a0ae">
+        <langSet xml:lang="en">
+          <tig>
+            <term>search engine</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>motor de búsqueda, buscador de internet</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="979cabff-6d01-4641-b841-f61ccd43924b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>select all</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>marcar todo/todos/todas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="12b25739-d77f-4998-b455-a31928be1b7c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>shortcut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>acceso directo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="e6fed198-cc39-4f10-9ac4-e5beccb91dc9">
+        <langSet xml:lang="en">
+          <tig>
+            <term>silently</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>de forma automática</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="4ff29fd4-a9d6-41e0-b162-6f0f0f00cfb8">
+        <langSet xml:lang="en">
+          <tig>
+            <term>spell checking</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Revisión ortográfica</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="c9b3ee99-9412-440d-aec3-67f945479b67">
+        <langSet xml:lang="en">
+          <tig>
+            <term>start</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Iniciar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fd38a6a8-7f63-4289-854d-e57912bfd95b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>stream</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>secuencia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="ef008afd-70bf-44e2-8ed3-c2dda42d1e6b">
+        <langSet xml:lang="en">
+          <tig>
+            <term>streamlined</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>optimizado/a, funcional</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="6edeebcc-15f7-4f16-a492-723fdec690c6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>support</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>asistencia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="cd3d6eab-de94-416c-aa7b-9322205f2f29">
+        <langSet xml:lang="en">
+          <tig>
+            <term>switch between</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>alternar entre</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="587896d7-3f9e-4bad-9a8c-4957ec1bbd8e">
+        <langSet xml:lang="en">
+          <tig>
+            <term>target location</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Ubicación de destino</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="983ca13c-d833-4590-8955-9711287828ba">
+        <langSet xml:lang="en">
+          <tig>
+            <term>the mobile browser that’s got your back</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>el navegador móvil que te protege</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="43a4069f-dac2-4767-b59d-3021be9e2a20">
+        <langSet xml:lang="en">
+          <tig>
+            <term>timing function</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>función de intervalos</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="725dd2ba-0ded-4f0c-95be-e25daf93c6f6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>toogle button</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>botón de alternancia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="fc8d0b37-8eaf-41c4-9d66-a6ee32ba4a59">
+        <langSet xml:lang="en">
+          <tig>
+            <term>top up</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>recargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="5f5d5277-d252-461a-b5c8-0abf66ac4f28">
+        <langSet xml:lang="en">
+          <tig>
+            <term>top-up</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>recarga</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8df8f1a9-cde6-410f-943f-1f94fdba6139">
+        <langSet xml:lang="en">
+          <tig>
+            <term>touch event</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>evento táctil</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="9d5eaa64-3313-405a-8b62-30b32c760a77">
+        <langSet xml:lang="en">
+          <tig>
+            <term>two-factor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>doble identificación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="8fc1d863-159a-4c1a-8071-45623b3582a6">
+        <langSet xml:lang="en">
+          <tig>
+            <term>unpin a tab</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>despegar pestaña/eliminar pestaña fija</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="345a91de-5c18-49fc-a500-a22276838d4c">
+        <langSet xml:lang="en">
+          <tig>
+            <term>unplug</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>desenchufar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="f47da14c-57a8-415a-b8c6-34684be53460">
+        <langSet xml:lang="en">
+          <tig>
+            <term>verify</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>comprobar; verificar (si la respuesta es sí o no)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="34e19a99-92ea-426e-988b-eff510c66223">
+        <langSet xml:lang="en">
+          <tig>
+            <term>web-based game</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>juego para el navegador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

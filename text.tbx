@@ -1,0 +1,5464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <sourceDesc>
+        <p>Translate Toolkit</p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>term</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>es</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>About</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Acerca de</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Add</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Agregar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Address Book</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Agenda de direcciones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Airplane Mode</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Modo avión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Align</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Alinear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Alignment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Alineación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>App</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Aplicación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Apps Developer Preview</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Versión de prueba para desarrolladores de Apps</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Assistive tecnologies</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>tecnologías adaptadas a usuarios con necesidades especiales</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Attach</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Adjuntar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Attachment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Adjunto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Authentication</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Autenticación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Auto-detection</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Detección automática</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Autocomplete</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Autocompletar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Availability</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Disponibilidad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Awesome Screen</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Pantalla Alucinante</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Back</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Atrás</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Be offlline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Estar desconectado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Be online</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Estar conectado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Blank page</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Página en blanco</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Block</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Bloquear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Bookmark</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Marcar, marcador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Border</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Borde</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Browser</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Navegador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Button</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Botón</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Button labels</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Botones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>By default</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>De manera predeterminada</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cache</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>la (memoria) caché</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cache Options</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Opciones de la caché</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Calendar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Calendario</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cancel</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cancelar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Certificate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Certificado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Character Coding</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Codificación de caracteres</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Charsets</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Juegos de caracteres</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Check Box</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Casilla de verificación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Check Spelling</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Revisar ortografía</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Clear</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Borrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Client</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cliente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Close</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cerrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Collapse</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Contraer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Command</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Orden, comando</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Compact</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Comprimir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Compose</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Redactar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Composition</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Redacción</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Configuration Error</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Error de configuración</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Confirm</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Confirmar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Connection</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Conexión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Console</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Consola</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Container</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Contenedor</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Contents</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Contenido</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Convert</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Convertir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Copy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Copiar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Create</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Crear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Custom Keyword</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Palabra clave personalizada</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Customer support</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Asistencia técnica, servicio técnico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Customize</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Personalizar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Cut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cortar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Debug</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Depurar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Debugger</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Depurador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Default</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>predeterminada/o</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Descending</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Descendente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Device</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Dispositivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dialog box</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cuadro de diálogo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dialup</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Marcación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Digital Signing</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Firma digital</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Directory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Directorio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Disable</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Desactivar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Disk</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Disco</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Disk space</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Espacio en el disco</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Domain</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Dominio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Download</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Descargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Download Manager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Administrador de descargas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Downloader</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Descargador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Draft</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Borrador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Drag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Arrastrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Dump</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Volcar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Duplicate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Duplicar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Edit</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Editar, modificar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Elapsed Time</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tiempo transcurrido</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Email Address</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Dirección de correo electrónico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Email Address reminder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>recordatorio de la dirección de correo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Email provider</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Proveedor de correo electrónico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Embedded</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Incrustado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Enable</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Habilitar, activar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Encoding</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Codificación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Encrypt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cifrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Encryption</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cifrado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Encryption strength</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Fuerza de cifrado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Engine</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Motor</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Enter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>escribir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Erase</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Borrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Expand</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Expandir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Expire</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Caducar (no expirar)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Export</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Exportar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Expression</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Expresión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Extension</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Extensión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>FAQ</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>FAQ/Preguntas frecuentes (dependiendo del espacio)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Failure</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Fallo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>File</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Archivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Fill in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Rellenar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Filter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Filtro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Filter Log</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Registro de filtros</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Filtering</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Filtrado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Find</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Buscar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Find Results</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Resultados de la búsqueda</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Find and Replace</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Buscar y reemplazar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Finish</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Terminar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Firefox Marketplace</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Firefox Marketplace</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Flag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Indicador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Folder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Carpeta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Font</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tipo de letra</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Form</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Formulario</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Form Manager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Administrador de formularios</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Forward</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Siguiente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Forwarding</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Reenvío</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Frame</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Marco</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>GB</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Gb</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Go offline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Desconectarse</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Go online</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Conectarse</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Group By</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Agrupar por</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Handler</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Manejador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Help</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ayuda</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Helper Applications</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Aplicaciones auxiliares</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hide</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ocultar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>History</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Historial</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Home</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Inicio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Home Page</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Página inicial</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Home Screen</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Pantalla inicio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Host</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>host</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Hostname</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Nombre de host</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>I/O</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>E/S</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ID</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Identificador del cliente o id. del cliente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ISP or web hosting service</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>ISP o servicio de alojamiento Web</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Import</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Importar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Incoming Server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Servidor de entrada</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Index</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Índice</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Inspect</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Revisar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Internet Service Provider</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Proveedor de servicios de Internet</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Item</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Elemento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Java</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Java</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>JavaScript</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>JavaScript</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>JavaScript Debugger</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Depurador de JavaScript</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Junk mail</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Correo basura</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>KB</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Kb</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Key</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tecla</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Keyword</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Palabra clave</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Label</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Etiqueta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Language setting</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Configuración de idioma</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Last Modified</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Última modificación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Last Visited</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Última visita</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Launch</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Lanzar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Launch File</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Iniciar archivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Link</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Enlace</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Load</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Local Data</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Datos locales</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Local directory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Directorio local</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Location</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ubicación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Location Bar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Barra de direcciones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Lock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Bloquear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Log</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Registro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>MB</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Mb</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mail</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Correo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mail account</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cuenta de correo electrónico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mailing List</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Lista de distribución</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Manage</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Gestionar, administrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Map</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Mapa</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Master password</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Contraseña maestra</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Match upper/lower case</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Distinguir mayúsculas/minúsculas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Matching</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Resultados coincidentes</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Memory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Memoria</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Menu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Menú (plural menús)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Message</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Mensaje</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Migrate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Migrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Migration</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Migración</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Modifier key</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tecla modificadora</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Modify</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Modificar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Move</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Desplazar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Mozilla Web Apps</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Aplicaciones web de Mozilla</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Name</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Nombre</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Navigation Toolbar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Barra de navegación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Networking</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Red</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>News server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Servidor de noticias</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Next</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Siguiente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Nickname</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Apodo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Node</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Nodo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Notify</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Notificar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>OK</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>aceptar (no OK)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>On</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Activado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Open Web Apps</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>aplicaciones web abiertas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Operator</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Operador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Originating server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Servidor de origen</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Outgoing Server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Servidor de salida</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>PIN</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>PIN</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pack</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Paquete</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Localizador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Parameter</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Parámetro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Password</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Contraseña</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Paste</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Pegar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Path</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ruta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Performance</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Rendimiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Personal profile</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Perfil personal</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Pictures only</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Sólo imágenes</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Plain Text</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Texto normal</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Play (a sound)</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Reproducir (un sonido)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Plug-in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Complemento, plugin</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Policy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Política</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Port</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Puerto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Preferences</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Preferencias</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Press</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Pulsar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Preview</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Vista preliminar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Privacy Policy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Política de privacidad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Profile</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Perfil</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Prompt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Indicador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Properties</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Propiedades</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Proxy configuration</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Configuración del servidor proxy</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Publish</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Publicar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Query</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Consulta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Quick Launch</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Inicio rápido</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Quit</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Salir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Quotation</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cita</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Read Only</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Sólo lectura</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reader</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Lector</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Recipient</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Destinatario</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Redirection</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Redirección</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Redo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Rehacer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reference</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Referencia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Refine &amp; Polish</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Define y perfecciona</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Registry</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Registro</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reload</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Recargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Remove</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Suprimir, eliminar (no remover)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Reset</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>restablecer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Restart</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Reiniciar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Retry</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Reintentar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Return Receipt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Acuse de recibo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Revoke</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Revocar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Roaming Access profile</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Perfil de acceso móvil</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Run</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ejecutar (no correr)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Save</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Guardar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Save to</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Guardar en</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Scale</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Escala</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Scratchpad</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Borrador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Screen Name</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Alias</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Script</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Secuencia de órdenes, script</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Search</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Buscar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Search backwards</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Buscar hacia atrás</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Search the</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Buscar en</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Security Devices</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Dispositivos de seguridad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Security Policies</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Política de seguridad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Security manager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Gestor de seguridad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Select</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Seleccionar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Send</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Enviar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sender</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Remitente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Server</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Servidor</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Session</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Sesión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Set</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Definir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Set as</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Definir como</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sets of settings</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Conjuntos de valores</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Settings</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>ajustes</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Show</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Mostrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Show as</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Mostrar como</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sidebar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Barra lateral</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Site</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Sitio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Size</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tamaño</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sleek</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>impecable</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Slot</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ranura</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Smart card</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tarjeta inteligente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Socket</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Punto de conexión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sort</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ordenar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Sort by</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ordenar por</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Source</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Origen</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Source file</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Archivo de origen</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Spacing</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Espaciado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Spellchecker</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Revisor ortográfico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Stack</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Pila</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Startup</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Arranque</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Status</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Estado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Status Bar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Barra de estado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Stop</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Parar, detener</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Storage</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Almacenamiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Store</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Almacenar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subdirectory</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Subdirectorio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subfolder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Subcarpeta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subject</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Asunto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Subscript</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Subíndice, subscript</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Support</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>admitir, ser compatible con (no soportar)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Synchronization</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Sincronización</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Syntax error</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Error de sintaxis</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>System administrator</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Administrador del sistema</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>System default</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Valores predeterminados del sistema</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>System setting</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ajustes del sistema</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>TB</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tb</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tab</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>pestaña</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tab Index</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Índice de tabulación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Table</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tabla</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Table of contents</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Índice de contenido</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Etiqueta</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>pulsar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Target Frame</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Marco de destino</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Tecnical support</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Asistencia técnica, servicio técnico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Template</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Plantilla</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Text only</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Sólo texto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Time Left</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tiempo restante</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Title</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Título</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Toolbar</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Barra de herramientas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Trigger</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Activador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Troubleshooting</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Solución de problemas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Typeface</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Tipo de letra</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>URI</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>URI (masculino: Identificador Uniforme de Recursos)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>URL</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>URL (femenino)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Undo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Deshacer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Uninstall</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Desinstalar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Unlock</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Desbloquear</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Unsorted</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Sin ordenar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Update</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Actualizar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Upgrade</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ampliar (versión o licencia con nuevas funcionalidades)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Upload</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>User</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Usuario</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Validation</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Validación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>View</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Vista</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>View Menu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Menú Ver</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Viewer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Visualizador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Visit Count</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Cómputo de visitas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Voiced Status</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Estado de voz</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Web page</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>página web</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Web site</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>sitio web</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>What's New</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Novedades</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Wi-Fi</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>wifi</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Width</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ancho</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Wizard</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Asistente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Zoom in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Reducir</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Zoom out</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Aumentar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>abort</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>anular (no abortar)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>add-on</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>complemento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>app tab</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>pestaña de aplicaciones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>application specific password</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>contraseña específica de aplicaciones</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>apply for</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>solicitar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>audio/video input</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>entrada de audio/video</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>binding</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>enlace</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bitmap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>mapa de bits</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bootstrap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>arranque</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bubble up</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>lanzar, propagar, activar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>buffer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>búfer</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bug tracking</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>seguimiento de errores</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>check</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>comprobar, asegurarse</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>click</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>hacer clic</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>click to play</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>pulsar para activar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>clickjacking</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>secuestro de clic</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cliparts</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>imágenes prediseñadas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>closing tag</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>etiqueta de cierre</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>code snippet</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>fragmento de código</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>computer</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>equipo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>configuration</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>configuración</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>contact</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>contacto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>convenient</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>cómodo, práctico (mejor que conveniente)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>copy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>copiar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>corrupt</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>dañado/dañar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>corrupted</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>dañado/a</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>delete</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>borrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>deselect all</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>desmarcar todo/todos/todas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>disabled</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>deshabilitado/desactivado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>distro-based package manager</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>gestor de paquetes incluido en la distribución</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>done</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>hecho</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>e-mail</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>correo, correo electrónico</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>email reminder</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>recordatorio por correo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>enabled</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>habilitado/activado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>event</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>evento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>feedback</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>opinión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>find files</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>buscador de archivos</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>find files dialog</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>diálogo de búsqueda de archivos</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>follow-up</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>seguimiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>grow a file</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>ampliar un archivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>handle</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>atender una solicitud, administrar correo, controlar un evento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>header</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>encabezado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>height</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>alto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>host environment</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>entorno de host</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>hover</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>desplazar el puntero, desplazamiento de puntero, activación por desplazamiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ignore</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>omitir, pasar por alto</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>inline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>alineado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>instance</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>versión, sesión; instancia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>issue refund</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>efectuar reembolso</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>issued</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>efectuado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>landing page</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>página de bienvenida</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>landscape</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>horizontal</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>landscape mode</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>modo horizontal</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>library</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>biblioteca (no librería)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>location-aware browsing</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>navegación de acuerdo a la ubicación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>log in</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>entrar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>management</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>administración</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>memory leaks</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>pérdidas de memoria</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>merge</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>combinar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>min</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>min</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>need to</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>tener que</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>nightly branch build</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>binario diario de una rama estable</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>occurrence</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>repetición, caso</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>offline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>sin conexión</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>online/offline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>conectado/desconectado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>outlines</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>líneas/aspectos generales, esquema, contorno (css)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>overview</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>presentación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pair</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>emparejar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>paired</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>emparejado/a</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>parser</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>analizador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>passcode</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>código de acceso</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>phrasing content</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>contenido estático</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>picture</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>fotografía</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pin a tab															
+													</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>pegar como pestaña de aplicación/fijar pestaña</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>playlist</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>lista de reproducción</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>plug</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>enchufar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>plugged</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>enchufado/a</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pop-up windows</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ventanas emergentes</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>popup</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>elemento emergente</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>portrait</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>vertical</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>portrait mode</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>modo vertical</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>present device-aware features and experiences</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>ofrecer características y experiencias en función del dispositivo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>prevent</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>evitar, impedir (no prevenir)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>price tier</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>franja de precio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>proprietary software</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>software patentado, registrado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>quality assurance</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>control de la calidad</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>radiobutton</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>botón de opción</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>reminder email</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>correo recordatorio</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>removable</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>extraíble</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>replicate</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Replicar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>resize the window</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>redefinir el tamaño de la ventana</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>resume</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>reanudar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>roaming</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>itinerante</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>roaming area</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>área de conexión móvil internacional</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>rundown</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>detención, parada; resumen</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>runtime</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>tiempo de ejecución</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>scripting</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>scripting</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>scrolling list of buttons</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>lista de botones con desplazamiento</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>seamless</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>perfectamente integrado/a</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>search</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term></term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>search engine</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>motor de búsqueda, buscador de internet</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>select all</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>marcar todo/todos/todas</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>shortcut</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>acceso directo</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>silently</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>de forma automática</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>spell checking</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Revisión ortográfica</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>start</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Iniciar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>stream</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>secuencia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>streamlined</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>optimizado/a, funcional</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>support</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>asistencia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>switch between</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>alternar entre</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>target location</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>Ubicación de destino</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>the mobile browser that’s got your back</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>el navegador móvil que te protege</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>timing function</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>función de intervalos</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>toogle button</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>botón de alternancia</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>top up</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>recargar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>top-up</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>recarga</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>touch event</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>evento táctil</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>two-factor</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>doble identificación</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>unpin a tab</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>despegar pestaña/eliminar pestaña fija</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>unplug</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>desenchufar</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>verify</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>comprobar; verificar (si la respuesta es sí o no)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <langSet xml:lang="en">
+          <tig>
+            <term>web-based game</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="xx">
+          <tig>
+            <term>juego para el navegador</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

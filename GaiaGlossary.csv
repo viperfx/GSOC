@@ -1,0 +1,455 @@
+term,pos,comment,es
+About,,,Acerca de
+Add,,,Agregar
+Address Book,,,Agenda de direcciones
+Airplane Mode,,,Modo avión
+Align,,,Alinear
+Alignment,,,Alineación
+App,,,Aplicación
+Apps Developer Preview,,,Versión de prueba para desarrolladores de Apps
+Assistive tecnologies,,,tecnologías adaptadas a usuarios con necesidades especiales
+Attach,,,Adjuntar
+Attachment,,,Adjunto
+Authentication,,,Autenticación
+Auto-detection,,,Detección automática
+Autocomplete,,,Autocompletar
+Availability,,,Disponibilidad
+Awesome Screen,,,Pantalla Alucinante
+Back,,,Atrás
+Be offlline,,,Estar desconectado
+Be online,,,Estar conectado
+Blank page,,,Página en blanco
+Block,,,Bloquear
+Bookmark,,,"Marcar, marcador"
+Border,,,Borde
+Browser,,,Navegador
+Button,,,Botón
+Button labels,,,Botones
+By default,,,De manera predeterminada
+Cache,,,la (memoria) caché
+Cache Options,,,Opciones de la caché
+Calendar,,,Calendario
+Cancel,,,Cancelar
+Certificate,,,Certificado
+Character Coding,,,Codificación de caracteres
+Charsets,,,Juegos de caracteres
+Check Box,,,Casilla de verificación
+Check Spelling,,,Revisar ortografía
+Clear,,,Borrar
+Client,,,Cliente
+Close,,,Cerrar
+Collapse,,,Contraer
+Command,,,"Orden, comando"
+Compact,,,Comprimir
+Compose,,,Redactar
+Composition,,,Redacción
+Configuration Error,,,Error de configuración
+Confirm,,,Confirmar
+Connection,,,Conexión
+Console,,,Consola
+Container,,,Contenedor
+Contents,,,Contenido
+Convert,,,Convertir
+Copy,,,Copiar
+Create,,,Crear
+Custom Keyword,,,Palabra clave personalizada
+Customer support,,,"Asistencia técnica, servicio técnico"
+Customize,,,Personalizar
+Cut,,,Cortar
+Debug,,,Depurar
+Debugger,,,Depurador
+Default,,,predeterminada/o
+Descending,,,Descendente
+Device,,,Dispositivo
+Dialog box,,,Cuadro de diálogo
+Dialup,,,Marcación
+Digital Signing,,,Firma digital
+Directory,,,Directorio
+Disable,,,Desactivar
+Disk,,,Disco
+Disk space,,,Espacio en el disco
+Domain,,,Dominio
+Download,,,Descargar
+Download Manager,,,Administrador de descargas
+Downloader,,,Descargador
+Draft,,,Borrador
+Drag,,,Arrastrar
+Dump,,,Volcar
+Duplicate,,,Duplicar
+Edit,,,"Editar, modificar"
+Elapsed Time,,,Tiempo transcurrido
+Email Address,,,Dirección de correo electrónico
+Email Address reminder,,,recordatorio de la dirección de correo
+Email provider,,,Proveedor de correo electrónico
+Embedded,,,Incrustado
+Enable,,,"Habilitar, activar"
+Encoding,,,Codificación
+Encrypt,,,Cifrar
+Encryption,Noun,,Cifrado
+Encryption strength,,,Fuerza de cifrado
+Engine,,,Motor
+Enter,,,escribir
+Erase,,,Borrar
+Expand,,,Expandir
+Expire,,,Caducar (no expirar)
+Export,,,Exportar
+Expression,,,Expresión
+Extension,,,Extensión
+FAQ,,,FAQ/Preguntas frecuentes (dependiendo del espacio)
+Failure,,,Fallo
+File,,,Archivo
+Fill in,,,Rellenar
+Filter,,,Filtro
+Filter Log,,,Registro de filtros
+Filtering,,,Filtrado
+Find,,,Buscar
+Find Results,,,Resultados de la búsqueda
+Find and Replace,,,Buscar y reemplazar
+Finish,,,Terminar
+Firefox Marketplace,,,Firefox Marketplace
+Flag,,,Indicador
+Folder,,,Carpeta
+Font,,,Tipo de letra
+Form,,,Formulario
+Form Manager,,,Administrador de formularios
+Forward,,,Siguiente
+Forwarding,,,Reenvío
+Frame,,,Marco
+GB,,,Gb
+Go offline,,,Desconectarse
+Go online,,,Conectarse
+Group By,,,Agrupar por
+Handler,,,Manejador
+Help,,,Ayuda
+Helper Applications,,,Aplicaciones auxiliares
+Hide,,,Ocultar
+History,,,Historial
+Home,,,Inicio
+Home Page,,,Página inicial
+Home Screen,,,Pantalla inicio
+Host,,,host
+Hostname,,,Nombre de host
+I/O,,,E/S
+ID,,,Identificador del cliente o id. del cliente
+ISP or web hosting service,,,ISP o servicio de alojamiento Web
+Import,,,Importar
+Incoming Server,,,Servidor de entrada
+Index,,,Índice
+Inspect,,,Revisar
+Internet Service Provider,,,Proveedor de servicios de Internet
+Item,,,Elemento
+Java,,,Java
+JavaScript,,,JavaScript
+JavaScript Debugger,,,Depurador de JavaScript
+Junk mail,,,Correo basura
+KB,,,Kb
+Key,,,Tecla
+Keyword,,,Palabra clave
+Label,,,Etiqueta
+Language setting,,,Configuración de idioma
+Last Modified,,,Última modificación
+Last Visited,,,Última visita
+Launch,,,Lanzar
+Launch File,,,Iniciar archivo
+Link,,,Enlace
+Load,,,Cargar
+Local Data,,,Datos locales
+Local directory,,,Directorio local
+Location,,,Ubicación
+Location Bar,,,Barra de direcciones
+Lock,,,Bloquear
+Log,,,Registro
+MB,,,Mb
+Mail,,,Correo
+Mail account,,,Cuenta de correo electrónico
+Mailing List,,,Lista de distribución
+Manage,,,"Gestionar, administrar"
+Map,,,Mapa
+Master password,,,Contraseña maestra
+Match upper/lower case,,,Distinguir mayúsculas/minúsculas
+Matching,,,Resultados coincidentes
+Memory,,,Memoria
+Menu,,,Menú (plural menús)
+Message,,,Mensaje
+Migrate,,,Migrar
+Migration,,,Migración
+Modifier key,,,Tecla modificadora
+Modify,,,Modificar
+Move,,,Desplazar
+Mozilla Web Apps,,,Aplicaciones web de Mozilla
+Name,,,Nombre
+Navigation Toolbar,,,Barra de navegación
+Networking,,,Red
+News server,,,Servidor de noticias
+Next,,,Siguiente
+Nickname,,,Apodo
+Node,,,Nodo
+Notify,,,Notificar
+OK,,,aceptar (no OK)
+On,,,Activado
+Open Web Apps,,,aplicaciones web abiertas
+Operator,,,Operador
+Originating server,,,Servidor de origen
+Outgoing Server,,,Servidor de salida
+PIN,Noun,,PIN
+Pack,,,Paquete
+Pager,,,Localizador
+Parameter,,,Parámetro
+Password,,,Contraseña
+Paste,,,Pegar
+Path,,,Ruta
+Performance,,,Rendimiento
+Personal profile,,,Perfil personal
+Pictures only,,,Sólo imágenes
+Plain Text,,,Texto normal
+Play (a sound),,,Reproducir (un sonido)
+Plug-in,,,"Complemento, plugin"
+Policy,,,Política
+Port,,,Puerto
+Preferences,,,Preferencias
+Press,,,Pulsar
+Preview,,,Vista preliminar
+Privacy Policy,,,Política de privacidad
+Profile,,,Perfil
+Prompt,,,Indicador
+Properties,,,Propiedades
+Proxy configuration,,,Configuración del servidor proxy
+Publish,,,Publicar
+Query,,,Consulta
+Quick Launch,,,Inicio rápido
+Quit,,,Salir
+Quotation,,,Cita
+Read Only,,,Sólo lectura
+Reader,,,Lector
+Recipient,,,Destinatario
+Redirection,,,Redirección
+Redo,,,Rehacer
+Reference,,,Referencia
+Refine & Polish,,,Define y perfecciona
+Registry,,,Registro
+Reload,,,Recargar
+Remove,,,"Suprimir, eliminar (no remover)"
+Reset,,,restablecer
+Restart,,,Reiniciar
+Retry,,,Reintentar
+Return Receipt,,,Acuse de recibo
+Revoke,,,Revocar
+Roaming Access profile,,,Perfil de acceso móvil
+Run,,,Ejecutar (no correr)
+Save,,,Guardar
+Save to,,,Guardar en
+Scale,,,Escala
+Scratchpad,,,Borrador
+Screen Name,,,Alias
+Script,,,"Secuencia de órdenes, script"
+Search,Noun,,Buscar
+Search backwards,,,Buscar hacia atrás
+Search the,,,Buscar en
+Security Devices,,,Dispositivos de seguridad
+Security Policies,,,Política de seguridad
+Security manager,,,Gestor de seguridad
+Select,,,Seleccionar
+Send,,,Enviar
+Sender,,,Remitente
+Server,,,Servidor
+Session,,,Sesión
+Set,,,Definir
+Set as,,,Definir como
+Sets of settings,,,Conjuntos de valores
+Settings,,,ajustes
+Show,,,Mostrar
+Show as,,,Mostrar como
+Sidebar,,,Barra lateral
+Site,,,Sitio
+Size,,,Tamaño
+Sleek,,,impecable
+Slot,,,Ranura
+Smart card,,,Tarjeta inteligente
+Socket,,,Punto de conexión
+Sort,,,Ordenar
+Sort by,,,Ordenar por
+Source,,,Origen
+Source file,,,Archivo de origen
+Spacing,,,Espaciado
+Spellchecker,,,Revisor ortográfico
+Stack,,,Pila
+Startup,,,Arranque
+Status,,,Estado
+Status Bar,,,Barra de estado
+Stop,,,"Parar, detener"
+Storage,,,Almacenamiento
+Store,,,Almacenar
+Subdirectory,,,Subdirectorio
+Subfolder,,,Subcarpeta
+Subject,,,Asunto
+Subscript,,,"Subíndice, subscript"
+Support,,,"admitir, ser compatible con (no soportar)"
+Synchronization,,,Sincronización
+Syntax error,,,Error de sintaxis
+System administrator,,,Administrador del sistema
+System default,,,Valores predeterminados del sistema
+System setting,,,Ajustes del sistema
+TB,,,Tb
+Tab,,,pestaña
+Tab Index,,,Índice de tabulación
+Table,,,Tabla
+Table of contents,,,Índice de contenido
+Tag,,,Etiqueta
+Tap,,,pulsar
+Target Frame,,,Marco de destino
+Tecnical support,,,"Asistencia técnica, servicio técnico"
+Template,,,Plantilla
+Text only,,,Sólo texto
+Time Left,,,Tiempo restante
+Title,,,Título
+Toolbar,,,Barra de herramientas
+Trigger,,,Activador
+Troubleshooting,,,Solución de problemas
+Typeface,,,Tipo de letra
+URI,,,URI (masculino: Identificador Uniforme de Recursos)
+URL,,,URL (femenino)
+Undo,,,Deshacer
+Uninstall,,,Desinstalar
+Unlock,,,Desbloquear
+Unsorted,,,Sin ordenar
+Update,,,Actualizar
+Upgrade,,,Ampliar (versión o licencia con nuevas funcionalidades)
+Upload,,,Cargar
+User,,,Usuario
+Validation,,,Validación
+View,,,Vista
+View Menu,,,Menú Ver
+Viewer,,,Visualizador
+Visit Count,,,Cómputo de visitas
+Voiced Status,,,Estado de voz
+Web page,,,página web
+Web site,,,sitio web
+What's New,,,Novedades
+Wi-Fi,,,wifi
+Width,,,Ancho
+Wizard,,,Asistente
+Zoom in,,,Reducir
+Zoom out,,,Aumentar
+abort,,,anular (no abortar)
+add-on,,,complemento
+app tab,,,pestaña de aplicaciones
+application specific password,,,contraseña específica de aplicaciones
+apply for,,,solicitar
+audio/video input,,,entrada de audio/video
+binding,,,enlace
+bitmap,,,mapa de bits
+bootstrap,,,arranque
+bubble up,,,"lanzar, propagar, activar"
+buffer,,,búfer
+bug tracking,,,seguimiento de errores
+check,Verb,,"comprobar, asegurarse"
+click,Verb,,hacer clic
+click to play,,,pulsar para activar
+clickjacking,,,secuestro de clic
+cliparts,,,imágenes prediseñadas
+closing tag,,,etiqueta de cierre
+code snippet,,,fragmento de código
+computer,,,equipo
+configuration,,,configuración
+contact,,,contacto
+convenient,,,"cómodo, práctico (mejor que conveniente)"
+copy,Noun,,copiar
+corrupt,,,dañado/dañar
+corrupted,,,dañado/a
+delete,,,borrar
+deselect all,,,desmarcar todo/todos/todas
+disabled,,,deshabilitado/desactivado
+distro-based package manager,,,gestor de paquetes incluido en la distribución
+done,,,hecho
+e-mail,,,"correo, correo electrónico"
+email reminder,,,recordatorio por correo
+enabled,,,habilitado/activado
+event,,,evento
+feedback,,,opinión
+find files,,,buscador de archivos
+find files dialog,,,diálogo de búsqueda de archivos
+follow-up,,,seguimiento
+grow a file,,,ampliar un archivo
+handle,,,"atender una solicitud, administrar correo, controlar un evento"
+header,,,encabezado
+height,,,alto
+host environment,,,entorno de host
+hover,,,"desplazar el puntero, desplazamiento de puntero, activación por desplazamiento"
+ignore,,,"omitir, pasar por alto"
+inline,,,alineado
+instance,,,"versión, sesión; instancia"
+issue refund,,,efectuar reembolso
+issued,,,efectuado
+landing page,,,página de bienvenida
+landscape,,,horizontal
+landscape mode,,,modo horizontal
+library,,,biblioteca (no librería)
+location-aware browsing,,,navegación de acuerdo a la ubicación
+log in,Verb,,entrar
+management,,,administración
+memory leaks,,,pérdidas de memoria
+merge,,,combinar
+min,,,min
+need to,,,tener que
+nightly branch build,,,binario diario de una rama estable
+occurrence,,,"repetición, caso"
+offline,,,sin conexión
+online/offline,,,conectado/desconectado
+outlines,,,"líneas/aspectos generales, esquema, contorno (css)"
+overview,,,presentación
+pair,Verb,,emparejar
+paired,,,emparejado/a
+parser,,,analizador
+passcode,,,código de acceso
+phrasing content,,,contenido estático
+picture,,,fotografía
+"pin a tab															
+													",,,pegar como pestaña de aplicación/fijar pestaña
+playlist,,,lista de reproducción
+plug,,,enchufar
+plugged,,,enchufado/a
+pop-up windows,,,Ventanas emergentes
+popup,,,elemento emergente
+portrait,,,vertical
+portrait mode,,,modo vertical
+present device-aware features and experiences,,,ofrecer características y experiencias en función del dispositivo
+prevent,,,"evitar, impedir (no prevenir)"
+price tier,,,franja de precio
+proprietary software,,,"software patentado, registrado"
+quality assurance,,,control de la calidad
+radiobutton,,,botón de opción
+reminder email,,,correo recordatorio
+removable,,,extraíble
+replicate,,,Replicar
+resize the window,,,redefinir el tamaño de la ventana
+resume,,,reanudar
+roaming,,,itinerante
+roaming area,,,área de conexión móvil internacional
+rundown,,,"detención, parada; resumen"
+runtime,,,tiempo de ejecución
+scripting,,,scripting
+scrolling list of buttons,,,lista de botones con desplazamiento
+seamless,,,perfectamente integrado/a
+search,Verb,,
+search engine,,,"motor de búsqueda, buscador de internet"
+select all,,,marcar todo/todos/todas
+shortcut,,,acceso directo
+silently,,,de forma automática
+spell checking,,,Revisión ortográfica
+start,Verb,,Iniciar
+stream,,,secuencia
+streamlined,,,"optimizado/a, funcional"
+support,,,asistencia
+switch between,,,alternar entre
+target location,,,Ubicación de destino
+the mobile browser that’s got your back,,,el navegador móvil que te protege
+timing function,,,función de intervalos
+toogle button,,,botón de alternancia
+top up,Verb,,recargar
+top-up,Noun,,recarga
+touch event,,,evento táctil
+two-factor,,,doble identificación
+unpin a tab,,,despegar pestaña/eliminar pestaña fija
+unplug,,,desenchufar
+verify,,,comprobar; verificar (si la respuesta es sí o no)
+web-based game,,,juego para el navegador

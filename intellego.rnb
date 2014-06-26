@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rainbowProject version="4"><fileSet id="1"><root useCustom="0">/Users/tharshan</root><fi fs="okf_tmx" fo="" se="" te="">memoire_en-US_es-ES.tmx</fi></fileSet><fileSet id="2"><root useCustom="0">/Users/tharshan</root><fi fs="okf_tmx" fo="" se="" te="">memoire_en-US_es-ES.tmx</fi></fileSet><fileSet id="3"><root useCustom="0">/Users/tharshan</root></fileSet><output><root use="0"></root><subFolder use="0"></subFolder><extension use="1" style="0">.out</extension><replace use="0" oldText="" newText=""></replace><prefix use="0"></prefix><suffix use="0"></suffix></output><options sourceLanguage="en-us" sourceEncoding="UTF-8" targetLanguage="es-es" targetEncoding="UTF-8"></options><parametersFolder useCustom="0">/Users/tharshan</parametersFolder><utilities xml:spaces="preserve"><params id="TranslationComparisonPipeline">&lt;?xml version="1.0" encoding="UTF-8"?>
+&lt;rainbowPipeline version="1">&lt;step class="net.sf.okapi.steps.common.RawDocumentToFilterEventsStep">&lt;/step>
+&lt;step class="net.sf.okapi.steps.wordcount.SimpleWordCountStep">&lt;/step>
+&lt;step class="net.sf.okapi.steps.translationcomparison.TranslationComparisonStep">#v1
+generateTMX.b=true
+tmxPath=comparison.tmx
+generateHTML.b=true
+autoOpen.b=true
+genericCodes.b=true
+caseSensitive.b=true
+whitespaceSensitive.b=true
+punctuationSensitive.b=true
+target2Suffix=-t2
+target3Suffix=-t3
+document1Label=Trans1
+document2Label=Trans2
+document3Label=Trans3
+useDataLog.b=false
+dataLogPath=&lt;/step>
+&lt;/rainbowPipeline>
+</params></utilities></rainbowProject>

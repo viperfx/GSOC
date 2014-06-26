@@ -1,0 +1,18 @@
+# General
+*.pyc
+
+#vim
+.*.swp
+*~
+
+# /docs/
+/docs/_build/
+
+# Ignore stuff from the 'gh-pages' branch
+_layouts/
+_site/
+assets/
+
+# Requirements generation
+.reqs
+requirements/min-versions.txt
