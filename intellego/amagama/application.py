@@ -39,7 +39,7 @@ def amagama_server_factory():
     app = AmagamaServer("settings.py", __name__)
     app.register_blueprint(api.read_api, url_prefix='/tmserver')
     app.secret_key = "foobar"
-
+    app.debug = True
     if app.config['ENABLE_DATA_ALTERING_API']:
         app.register_blueprint(api.write_api, url_prefix='/tmserver')
 
