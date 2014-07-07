@@ -3,17 +3,17 @@
   window.MGM = window.MGM || {};
   MGM.translate = {
     init: function() {
-        console.log($("#targetFrame").contents());
-        $("#tabzilla-panel").remove();
-        var URLParams = $.param({
-          'source': $("#targetFrame").contents()[0].body.innerText,
-        });
+        // console.log($("#targetFrame").contents());
+        // $("#tabzilla-panel").remove();
+        // var URLParams = $.param({
+        //   'source': $("#targetFrame").contents()[0].body.innerText,
+        // });
 
-        var queryURL = [
-          '/tmserver/', 'en', '/', 'es', '/unit/?',
-          URLParams
-        ].join('');
-        $.getJSON(queryURL, MGM.translate.translateFrame);
+        // var queryURL = [
+        //   '/tmserver/', 'en', '/', 'es', '/unit/?',
+        //   URLParams
+        // ].join('');
+        // $.getJSON(queryURL, MGM.translate.translateFrame);
     },
     translateFrame: function (data) {
       var searchString = $("#targetFrame").contents()[0].body.innerText.toLowerCase();

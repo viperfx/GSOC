@@ -1,0 +1,295 @@
+<html class="no-js" lang="en-US" dir="ltr">
+<head>
+    
+  <title>Learn the Basics: get started | Firefox Help</title>
+
+          <link rel="icon" type="image/png" sizes="512x512" href="https://support.cdn.mozilla.net/static/img/firefox-512.png?v=1">
+      <link rel="icon" type="image/png" sizes="256x256" href="https://support.cdn.mozilla.net/static/img/firefox-256.png?v=1">
+      <link rel="icon" type="image/png" sizes="128x128" href="https://support.cdn.mozilla.net/static/img/firefox-128.png?v=1">
+      <link rel="icon" type="image/png" sizes="64x64" href="https://support.cdn.mozilla.net/static/img/firefox-64.png?v=1">
+      <link rel="icon" type="image/png" sizes="32x32" href="https://support.cdn.mozilla.net/static/img/firefox-32.png?v=1">
+      <link rel="icon" type="image/png" sizes="16x16" href="https://support.cdn.mozilla.net/static/img/firefox-16.png?v=1">
+  
+
+  <link rel="search" type="application/opensearchdescription+xml" title="Firefox Help" href="https://support.mozilla.org/en-US/search/xml">
+  
+  <link rel="stylesheet" media="screen,projection,tv" href="https://support.cdn.mozilla.net/static/css/common-min.css?build=82ff8ff">
+  <link rel="stylesheet" media="print" href="https://support.cdn.mozilla.net/static/css/print-min.css?build=82ff8ff">
+      <link rel="stylesheet" media="screen,projection,tv" href="https://support.cdn.mozilla.net/static/css/products-min.css?build=82ff8ff">
+  
+  <link href="https://mozorg.cdn.mozilla.net/media/css/tabzilla-min.css" rel="stylesheet">
+
+  <!--[if lte IE 7]>
+    <link rel="stylesheet" media="screen,projection,tv" href="//support.cdn.mozilla.net/static/css/ie-min.css?build=82ff8ff" />
+  <![endif]-->
+  <!--[if IE 8]>
+    <link rel="stylesheet" media="screen,projection,tv" href="//support.cdn.mozilla.net/static/css/ie8-min.css?build=82ff8ff" />
+  <![endif]-->
+
+  
+    <meta name="google-site-verification" content="2URA-2Y9BeYYUf8B2BSsBSVetJJS3TZwlXBOaMx2VfY">
+
+  
+  
+  <!--[if lt IE 9]>
+<script src="//support.cdn.mozilla.net/static/js/libs/html5-shiv.js"></script>
+<![endif]-->
+</head>
+<body class="html-ltr logged-out  en-US" data-readonly="false" data-usernames-api="/en-US/users/api/usernames" data-static-url="//support.cdn.mozilla.net/static/" data-media-url="//support.cdn.mozilla.net/media/" data-survey-gizmos="[]" data-ga-push="[]">
+
+<ul id="nav-access">
+  <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org#main-content" target="_parent">Skip to main content</a></li>
+  <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/locales" target="_parent">Switch language</a></li>
+  <li><a id="skip-to-search" href="http://localhost:8888/translate_url?url=https://support.mozilla.org#search-q" target="_parent">Skip to search</a></li>
+</ul>
+
+
+<div class="media-test"></div>
+
+  <div class="mobile-banner" id="mobile-warning">
+    <div class="close-button" data-close-id="mobile-warning" data-close-memory="remember">X</div>
+    <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org?&amp;mobile=1" target="_parent">
+      Tap here to go to the mobile version of the site.
+    </a>
+  </div>
+
+<div id="announcements">
+          <div class="announce-bar error" id="announce-outdated">
+    <div class="container_12">
+      <div class="grid_12">
+        <div class="close-button" data-close-id="announce-outdated"></div>
+              <span>
+        Your Firefox is out of date and may contain a security risk!
+      </span>
+      <a class="download-button" href="http://localhost:8888/translate_url?url=http://www.mozilla.org/firefox/new/#download-fx" data-ga-click="_trackEvent | External Links | Top Banner - Firefox Upgrades" target="_parent">
+        Upgrade Firefox
+      </a>
+    
+      </div>
+    </div>
+  </div>
+  
+  </div>
+
+<header>
+  <div class="container_12 cf">
+    <div class="grid_12">
+      <a href="http://localhost:8888/translate_url?url=http://www.mozilla.org/" id="tabzilla" target="_parent">mozilla</a>
+      <div class="cf">
+        <nav id="aux-nav" role="navigation">
+          <ul>
+                                            <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/questions/new" class="ask" target="_parent">Ask a question</a></li>
+              <li>
+        <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/users/auth" class="sign-in register" target="_parent">
+          Sign In
+        </a>
+      </li>
+      
+                          <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/locales" class="locale-picker" target="_parent">English</a></li>
+                      </ul>
+        </nav>
+      </div>
+      <div class="cf">
+                            <form id="support-search" action="https://support.mozilla.org/en-US/search" method="get" class="simple-search-form">
+    <input type="hidden" name="esab" value="a">
+                  <input type="hidden" name="product" value="firefox">
+              <input type="search" name="q" required="required" aria-required="true" placeholder="Search Mozilla Support" class="searchbox" id="search-q">
+    <button type="submit" title="Search" class="submit-button">Search</button>
+  </form>
+
+                <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/" target="_parent"><img class="logo" alt="mozilla support" src="https://support.cdn.mozilla.net/static/img/mozilla-support.png"></a>
+      </div>
+    </div>
+  </div>
+</header>
+
+    <div class="breadcrumbs">
+    <div class="container_12 cf">
+      <ol id="breadcrumbs" class="grid_12 cf">
+                              <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/" target="_parent">Home</a></li>
+                                        <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox" target="_parent">Firefox</a></li>
+                                        <li>Learn the Basics: get started</li>
+                        </ol>
+    </div>
+  </div>
+
+
+<div class="container_12 cf">
+  <div class="grid_12">
+    
+      </div>
+
+      <aside class="grid_3 no-min">
+                      </aside>
+  
+  <main id="main-content" role="main">
+      <div class="grid_12">
+    <h1 class="product-title cf">
+            <img src="https://support.cdn.mozilla.net/static/img/blank.png" alt="" class="logo-sprite" style="background-image: url('https://support.cdn.mozilla.net/media/uploads/products/2014-02-20-08-30-42-6319e8.png');">
+      <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox" target="_parent">Firefox</a>
+    </h1>
+  </div>
+  <aside class="grid_3">
+    <ul class="sidebar-nav topics">
+                <li class="selected ">
+        <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started" target="_parent">
+          Learn the Basics: get started
+        </a>
+                  <ul class="subtopics">
+                                        <li>
+                <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started/tips" target="_parent">
+                Tips and tricks
+                </a>
+              </li>
+                                        <li>
+                <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started/bookmarks" target="_parent">
+                Use bookmarks
+                </a>
+              </li>
+                                        <li>
+                <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started/tabs" target="_parent">
+                Tab basics
+                </a>
+              </li>
+                      </ul>
+              </li>
+                <li>
+        <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/download-and-install" target="_parent">
+          Download, install and migration
+        </a>
+              </li>
+                <li>
+        <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/privacy-and-security" target="_parent">
+          Privacy and security settings
+        </a>
+              </li>
+                <li>
+        <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/customize" target="_parent">
+          Customize controls, options and add-ons
+        </a>
+              </li>
+                <li>
+        <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/fix-problems" target="_parent">
+          Fix slowness, crashing, error messages and other problems
+        </a>
+              </li>
+      </ul>
+  </aside>
+  <div class="grid_9">
+    <article id="document-list">
+      <img src="https://support.cdn.mozilla.net/static/img/blank.png" alt="" class="logo-sprite" style="background-image: url('https://support.cdn.mozilla.net/media/uploads/topics/2013-06-13-13-39-36-d6fa93.png');">      <h1 class="topic-title has-image cf">
+                Learn the Basics: get started
+              </h1>
+
+      
+                    <h2 class="topic-description cf">
+                      Learn all you need to know to get started with Firefox.
+                  </h2>
+      
+      <ul class="topic-list">
+                                        <li class="subtopic">
+              <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started/tips" target="_parent">
+                Tips and tricks
+              </a>
+                          </li>
+                      <li class="subtopic">
+              <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started/bookmarks" target="_parent">
+                Use bookmarks
+              </a>
+                              The basics of using bookmarks
+                          </li>
+                      <li class="subtopic">
+              <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started/tabs" target="_parent">
+                Tab basics
+              </a>
+                          </li>
+                                    <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/update-firefox-latest-version" target="_parent">Update Firefox to the latest version</a>
+            By default, Firefox is set to automatically update itself but you can always do a manual update. We'll show you how.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/get-started-firefox-overview-main-features" target="_parent">Get started with Firefox - An overview of the main features</a>
+            This article covers the basics features of Firefox - bookmarks, tabs, search, add-ons and more. It also links to more articles that you'll want to explore.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/How%20to%20set%20the%20home%20page" target="_parent">How to set the home page</a>
+            Load your favorite pages in one click. We'll show you how to set your home page or restore the default page.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/search-bar-easily-choose-your-search-engine" target="_parent">Search bar - Easily choose your favorite search engine</a>
+            The Search Bar in the top right corner of the Firefox window lets you make searches and switch search engines right there in Firefox. Learn how to customize it.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/awesome-bar-find-your-bookmarks-history-and-tabs" target="_parent">Awesome Bar - Find your bookmarks, history and tabs when you type in the address bar</a>
+            As you type in address bar, Firefox suggests websites you've visited, bookmarked or tagged. Learn more and get to the sites you want within a few keystrokes.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files" target="_parent">Find and manage downloaded files</a>
+            The Downloads panel and Library keep track of files you download. We'll show you how to access, manage, change settings and find your files.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/how-do-i-use-firefox-spell-checker" target="_parent">How do I use the Firefox spell checker?</a>
+            Firefox automatically checks your spelling as you type. Learn about the options available like adding dictionaries and removing a word added by accident.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/how-print-websites" target="_parent">How to print websites</a>
+            This articles covers the basics of print settings and formatting options in Firefox.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/view-pdf-files-firefox-without-downloading-them" target="_parent">View PDF files in Firefox without downloading them</a>
+            Learn how to get PDF files to open in the Firefox window and fix common problems like blank pages and files downloading instead of opening.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/what-is-persona-and-how-does-it-work" target="_parent">What is Persona and how does it work?</a>
+            Mozilla Persona is an easy way to sign in to websites using your email address. This article shows you how it works and how to start using it.
+          </li>
+                  <li>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/accessibility-features-firefox-make-firefox-and-we" target="_parent">Accessibility features in Firefox - Make Firefox and web content work for all users</a>
+            Learn about Firefox features that make the browser and content accessible to those who have low vision, no vision or limited ability to use a keyboard or mouse.
+          </li>
+              </ul>
+
+          </article>
+  </div>
+  </main>
+</div>
+
+<footer>
+  <div class="container_12 cf">
+    <div class="grid_2"><img src="https://support.cdn.mozilla.net/static/img/mozilla-logo.png" alt="Mozilla"></div>
+    <div class="grid_4 suffix_1">
+      <div class="fineprint">
+        Portions of this content are &#169;1998&#8211;2014 <br>by individual mozilla.org contributors. Content <br>available under a <a href="http://localhost:8888/translate_url?url=https://www.mozilla.org/foundation/licensing/website-content.html" target="_parent">Creative Commons license</a>.      </div>
+    </div>
+    <div class="grid_2">
+      <ul>
+        <li><a href="http://localhost:8888/translate_url?url=http://www.mozilla.org/en-US/contact/spaces/" target="_parent">Contact Us</a></li>
+        <li><a href="http://localhost:8888/translate_url?url=http://www.mozilla.org/privacy/websites/" target="_parent">Privacy Policy</a></li>
+        <li><a href="http://localhost:8888/translate_url?url=http://www.mozilla.org/about/legal.html" target="_parent">Legal Notices</a></li>
+        <li><a href="http://localhost:8888/translate_url?url=http://www.mozilla.org/legal/fraud-report/" target="_parent">Report Trademark Abuse</a></li>
+        <li><a href="http://localhost:8888/translate_url?url=https://github.com/mozilla/kitsune/" target="_parent">Source Code</a></li>
+      </ul>
+    </div>
+    <div class="grid_2 suffix_1">
+      <ul>
+        <li><a href="http://localhost:8888/translate_url?url=http://www.twitter.com/mozilla" target="_parent">Twitter</a></li>
+        <li><a href="http://localhost:8888/translate_url?url=http://www.facebook.com/mozilla" target="_parent">Facebook</a></li>
+        <li><a href="http://localhost:8888/translate_url?url=http://affiliates.mozilla.org/" target="_parent">Firefox Affiliates</a></li>
+        <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org?&amp;mobile=1" target="_parent">Switch to mobile site</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+<script src="https://support.cdn.mozilla.net/static/jsi18n/en-us/javascript.js?82ff8ff"></script>
+
+
+<script src="https://support.cdn.mozilla.net/static/js/common-min.js?build=82ff8ff"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script src="//support.cdn.mozilla.net/static/js/ie6-8-min.js?build=82ff8ff"></script>
+<![endif]-->
+
+<script src="https://mozorg.cdn.mozilla.net/en-US/tabzilla/tabzilla.js" async></script>
+
+
+</body>
+</html>

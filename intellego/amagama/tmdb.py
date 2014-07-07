@@ -452,7 +452,7 @@ CREATE INDEX targets_%(slang)s_sid_lang_idx ON targets_%(slang)s (sid, lang);
 
         cursor = self.get_cursor()
         query = """
-SELECT * from (SELECT s.text AS source, t.text AS target
+SELECT * from (SELECT s.vector as stem, s.text AS source, t.text AS target
     FROM sources_%s s JOIN targets_%s t ON s.sid = t.sid,
     TO_TSQUERY(%%(lang_config)s, prepare_ortsquery(%%(search_str)s)) query
     WHERE t.lang = %%(tlang)s
@@ -463,15 +463,19 @@ SELECT * from (SELECT s.text AS source, t.text AS target
             'tlang': tlang,
             'lang_config': lang_config,
         })
-        print cursor.mogrify(query, {
-            'search_str': indexing_version(unit_source, checker),
-            'tlang': tlang,
-            'lang_config': lang_config,
-        })
+        # print cursor.mogrify(query, {
+        #     'search_str': indexing_version(unit_source, checker),
+        #     'tlang': tlang,
+        #     'lang_config': lang_config,
+        # })
         results = []
         # similarity = self.comparer.similarity
         for row in cursor:
+            stems = []
+            for item in row[0].split():
+                stems.append(item.split(":")[0].strip("'"))
             result = dict(row)
+            result['stem'] = stems
             results.append(result)
         # results.sort(key=lambda match: match['quality'], reverse=True)
         # results = results[:max_candidates]
