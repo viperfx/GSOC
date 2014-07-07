@@ -56,9 +56,13 @@ def translate_document(root):
     sel = CSSSelector('div, span, a, h2, h1')
     # loop through these elements and translate the DOM inplace
     for e in sel(root):
-        print e, e.text
+        # if text is found between opening and closing of a tag
         if e.text:
-            print current_app.tmdb.translate_unit(e.text, 'en', 'es')
+            for seg in e.text.split():
+                t_unit = current_app.tmdb.translate_unit(seg, 'en', 'es')
+                print "%s: %s" % (seg.encode('utf-8'),t_unit)
+                if len(t_unit) > 0:
+                    e.text = e.text.replace(t_unit[0]['source'].lower(), t_unit[0]['target'].lower())
     return root
 
 

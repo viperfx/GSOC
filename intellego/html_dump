@@ -40,7 +40,7 @@
 <ul id="nav-access">
   <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org#main-content" target="_parent">Skip to main content</a></li>
   <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/locales" target="_parent">Switch language</a></li>
-  <li><a id="skip-to-search" href="http://localhost:8888/translate_url?url=https://support.mozilla.org#search-q" target="_parent">Skip to search</a></li>
+  <li><a id="skip-to-search" href="http://localhost:8888/translate_url?url=https://support.mozilla.org#search-q" target="_parent">Skip to buscar</a></li>
 </ul>
 
 
@@ -49,7 +49,7 @@
   <div class="mobile-banner" id="mobile-warning">
     <div class="close-button" data-close-id="mobile-warning" data-close-memory="remember">X</div>
     <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org?&amp;mobile=1" target="_parent">
-      Tap here to go to the mobile version of the site.
+      Tap here to go to the mobile version of the sitio.
     </a>
   </div>
 
@@ -133,7 +133,7 @@
     <ul class="sidebar-nav topics">
                 <li class="selected ">
         <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started" target="_parent">
-          Learn the Basics: get started
+          Learn the Basics: get iniciared
         </a>
                   <ul class="subtopics">
                                         <li>
@@ -143,7 +143,7 @@
               </li>
                                         <li>
                 <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started/bookmarks" target="_parent">
-                Use bookmarks
+                Use marcars
                 </a>
               </li>
                                         <li>
@@ -165,12 +165,12 @@
               </li>
                 <li>
         <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/customize" target="_parent">
-          Customize controls, options and add-ons
+          Customize controls, options and agregar-ons
         </a>
               </li>
                 <li>
         <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/fix-problems" target="_parent">
-          Fix slowness, crashing, error messages and other problems
+          Fix slowness, crashing, error mensajes and other problems
         </a>
               </li>
       </ul>
@@ -178,12 +178,12 @@
   <div class="grid_9">
     <article id="document-list">
       <img src="https://support.cdn.mozilla.net/static/img/blank.png" alt="" class="logo-sprite" style="background-image: url('https://support.cdn.mozilla.net/media/uploads/topics/2013-06-13-13-39-36-d6fa93.png');">      <h1 class="topic-title has-image cf">
-                Learn the Basics: get started
+                Learn the Basics: get iniciared
               </h1>
 
       
                     <h2 class="topic-description cf">
-                      Learn all you need to know to get started with Firefox.
+                      Learn all you tener que know to get iniciared with Firefox.
                   </h2>
       
       <ul class="topic-list">
@@ -194,7 +194,7 @@
                           </li>
                       <li class="subtopic">
               <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/products/firefox/get-started/bookmarks" target="_parent">
-                Use bookmarks
+                Use marcars
               </a>
                               The basics of using bookmarks
                           </li>
@@ -208,23 +208,23 @@
             By default, Firefox is set to automatically update itself but you can always do a manual update. We'll show you how.
           </li>
                   <li>
-            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/get-started-firefox-overview-main-features" target="_parent">Get started with Firefox - An overview of the main features</a>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/get-started-firefox-overview-main-features" target="_parent">Get iniciared with Firefox - An presentaci&#243;n of the main features</a>
             This article covers the basics features of Firefox - bookmarks, tabs, search, add-ons and more. It also links to more articles that you'll want to explore.
           </li>
                   <li>
-            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/How%20to%20set%20the%20home%20page" target="_parent">How to set the home page</a>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/How%20to%20set%20the%20home%20page" target="_parent">How to set the inicio page</a>
             Load your favorite pages in one click. We'll show you how to set your home page or restore the default page.
           </li>
                   <li>
-            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/search-bar-easily-choose-your-search-engine" target="_parent">Search bar - Easily choose your favorite search engine</a>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/search-bar-easily-choose-your-search-engine" target="_parent">Search bar - Easily choose your favorite buscar motor</a>
             The Search Bar in the top right corner of the Firefox window lets you make searches and switch search engines right there in Firefox. Learn how to customize it.
           </li>
                   <li>
-            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/awesome-bar-find-your-bookmarks-history-and-tabs" target="_parent">Awesome Bar - Find your bookmarks, history and tabs when you type in the address bar</a>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/awesome-bar-find-your-bookmarks-history-and-tabs" target="_parent">Awesome Bar - Find your marcars, historial and pesta&#241;as when you type in the address bar</a>
             As you type in address bar, Firefox suggests websites you've visited, bookmarked or tagged. Learn more and get to the sites you want within a few keystrokes.
           </li>
                   <li>
-            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files" target="_parent">Find and manage downloaded files</a>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/find-and-manage-downloaded-files" target="_parent">Find and manage descargared archivos</a>
             The Downloads panel and Library keep track of files you download. We'll show you how to access, manage, change settings and find your files.
           </li>
                   <li>
@@ -236,7 +236,7 @@
             This articles covers the basics of print settings and formatting options in Firefox.
           </li>
                   <li>
-            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/view-pdf-files-firefox-without-downloading-them" target="_parent">View PDF files in Firefox without downloading them</a>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/view-pdf-files-firefox-without-downloading-them" target="_parent">View PDF archivos in Firefox without descargaring them</a>
             Learn how to get PDF files to open in the Firefox window and fix common problems like blank pages and files downloading instead of opening.
           </li>
                   <li>
@@ -244,7 +244,7 @@
             Mozilla Persona is an easy way to sign in to websites using your email address. This article shows you how it works and how to start using it.
           </li>
                   <li>
-            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/accessibility-features-firefox-make-firefox-and-we" target="_parent">Accessibility features in Firefox - Make Firefox and web content work for all users</a>
+            <a href="http://localhost:8888/translate_url?url=https://support.mozilla.org/en-US/kb/accessibility-features-firefox-make-firefox-and-we" target="_parent">Accessibility features in Firefox - Make Firefox and web content work for all usuarios</a>
             Learn about Firefox features that make the browser and content accessible to those who have low vision, no vision or limited ability to use a keyboard or mouse.
           </li>
               </ul>
@@ -275,7 +275,7 @@
         <li><a href="http://localhost:8888/translate_url?url=http://www.twitter.com/mozilla" target="_parent">Twitter</a></li>
         <li><a href="http://localhost:8888/translate_url?url=http://www.facebook.com/mozilla" target="_parent">Facebook</a></li>
         <li><a href="http://localhost:8888/translate_url?url=http://affiliates.mozilla.org/" target="_parent">Firefox Affiliates</a></li>
-        <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org?&amp;mobile=1" target="_parent">Switch to mobile site</a></li>
+        <li><a href="http://localhost:8888/translate_url?url=https://support.mozilla.org?&amp;mobile=1" target="_parent">Switch to mobile sitio</a></li>
       </ul>
     </div>
   </div>
