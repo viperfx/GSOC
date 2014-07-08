@@ -77,11 +77,19 @@ def translate_html(root, html):
     words = [w.lower() for w in nltk.word_tokenize(raw) if w.isalpha() and len(w) > 2]
     vocab = sorted(set(words))
     trans = {word: current_app.tmdb.translate_unit(word, 'en', 'es') for word in vocab}
+    print trans
     for word in vocab:
         t_unit = trans[word]
         if len(t_unit) > 0:
+            for m in re.finditer(t_unit[0]['source']+"(?![^<]*>)", html, flags=re.IGNORECASE):
+                print '%02d-%02d: %s' % (m.start(), m.end(), m.group(0))
+                if m.group(0)[0].isupper():
+                    html = re.sub(m.group(0)+"(?![^<]*>)", t_unit[0]['target'].title(), html, count=1, flags=re.IGNORECASE)
+                else:
+                    html = re.sub(m.group(0)+"(?![^<]*>)", t_unit[0]['target'].lower(), html, count=1, flags=re.IGNORECASE)
+                print '---'
             # find occurence of source and replace with target, if found between html tags
-            html = re.sub(t_unit[0]['source'].lower()+"(?![^<]*>)", t_unit[0]['target'].lower(), html)
+            
     return lxml.html.document_fromstring(html)
 
 @web_ui.route('/translate_text', methods=('POST',))
