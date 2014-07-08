@@ -26,8 +26,11 @@ import re
 import lxml.html
 from urlparse import urlparse
 import urllib
-from lxml.cssselect import CSSSelector
+from cssselect import HTMLTranslator
 from amagama import tmdb
+import nltk
+import re
+from bs4 import BeautifulSoup,NavigableString
 
 web_ui = Blueprint('web_ui', __name__, static_folder='static')
 
@@ -53,18 +56,36 @@ def translate_url():
 def translate_document(root):
     """ Document root node translated and returned """
     # select the nodes through css selectors that may contain text
-    sel = CSSSelector('div, span, a, h2, h1')
+    sel = HTMLTranslator().css_to_xpath('h2, li')
     # loop through these elements and translate the DOM inplace
-    for e in sel(root):
+    
+    for e in root.xpath(sel):
         # if text is found between opening and closing of a tag
         if e.text:
             for seg in e.text.split():
                 t_unit = current_app.tmdb.translate_unit(seg, 'en', 'es')
                 print "%s: %s" % (seg.encode('utf-8'),t_unit)
+
                 if len(t_unit) > 0:
                     e.text = e.text.replace(t_unit[0]['source'].lower(), t_unit[0]['target'].lower())
     return root
 
+def translate_dom_string(root, html):
+    raw = nltk.clean_html(html)
+    words = [w.lower() for w in nltk.word_tokenize(raw) if w.isalpha() and len(w) > 2]
+    vocab = sorted(set(words))
+    soup = BeautifulSoup(html)
+    elements = soup.find_all(True)
+    for el in elements:
+        for word in vocab:
+            t_unit = current_app.tmdb.translate_unit(word, 'en', 'es')
+            # print "%s: %s" % (word,t_unit)
+            if len(t_unit) > 0 and (el.text.lower().find(t_unit[0]['source'].lower()) > -1):
+                if el.string:
+                    el.string.replace_with(el.text.replace(t_unit[0]['source'].lower(), t_unit[0]['target'].lower()))
+                    break
+    print vocab
+    return lxml.html.document_fromstring(str(soup))
 
 @web_ui.route('/get_page', methods=('GET',))
 def get_page():
@@ -88,7 +109,10 @@ def get_page():
             link = "http://localhost:8888/translate_url?url=%s" % (link)
             element.set("href", link)
             element.set("target", "_parent")
-    html = translate_document(html)
+    # translate through DOM Traversal
+    # html = translate_document(html)
+    # translate through DOM String
+    html = translate_dom_string(html, lxml.html.tostring(html))
     # dump the html string for debugging
     with open('html_dump', 'w') as f:
         f.write(lxml.html.tostring(html))
