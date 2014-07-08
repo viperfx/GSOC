@@ -76,9 +76,10 @@ def translate_dom_string(root, html):
     vocab = sorted(set(words))
     soup = BeautifulSoup(html)
     elements = soup.find_all(True)
+    trans = {word: current_app.tmdb.translate_unit(word, 'en', 'es') for word in vocab}
     for el in elements:
         for word in vocab:
-            t_unit = current_app.tmdb.translate_unit(word, 'en', 'es')
+            t_unit = trans[word]
             # print "%s: %s" % (word,t_unit)
             if len(t_unit) > 0 and (el.text.lower().find(t_unit[0]['source'].lower()) > -1):
                 if el.string:
