@@ -430,68 +430,6 @@ CREATE INDEX targets_%(slang)s_sid_lang_idx ON targets_%(slang)s (sid, lang);
             self._comparer = LevenshteinComparer(max_length)
         return self._comparer
 
-#     def translate_unit(self, unit_source, source_lang, target_lang,
-#                        project_style=None, min_similarity=None,
-#                        max_candidates=None):
-#         """Return TM suggestions for unit_source."""
-#         slang = lang_to_table(source_lang)
-#         if slang not in self.source_langs:
-#             abort(404)
-
-#         tlang = lang_to_table(target_lang)
-#         lang_config = lang_to_config(slang)
-
-#         if slang == tlang:
-#             abort(404)
-
-#         if isinstance(unit_source, str):
-#             unit_source = unicode(unit_source, "utf-8")
-
-#         checker = project_checker(project_style, source_lang)
-
-#         max_length = current_app.config.get('MAX_LENGTH', 1000)
-#         min_similarity = max(min_similarity or current_app.config.get('MIN_SIMILARITY', 70), 30)
-#         max_candidates = max_candidates or current_app.config.get('MAX_CANDIDATES', 5)
-
-#         source_len = len(unit_source)
-#         minlen = min_levenshtein_length(source_len, min_similarity)
-#         maxlen = max_levenshtein_length(source_len, min_similarity, max_length)
-
-#         minrank = max(min_similarity / 2, 30)
-
-#         cursor = self.get_cursor()
-#         query = """
-# SELECT * from (SELECT s.vector as stem, s.text AS source, t.text AS target, TS_RANK(s.vector, query, 32) * 1744.93406073519 AS rank
-#     FROM sources_%s s JOIN targets_%s t ON s.sid = t.sid,
-#     TO_TSQUERY(%%(lang_config)s, prepare_ortsquery(%%(search_str)s)) query
-#     WHERE t.lang = %%(tlang)s AND s.length BETWEEN %%(minlen)s AND %%(maxlen)s
-#     AND s.vector @@ query) sub WHERE rank > %%(minrank)s
-#     ORDER BY rank DESC
-# """ % (slang, slang)
-#         cursor.execute(query, {
-#             'search_str': indexing_version(unit_source, checker),
-#             'tlang': tlang,
-#             'lang_config': lang_config,
-#             'minrank': minrank,
-#             'minlen': minlen,
-#             'maxlen': maxlen,
-#         })
-#         results = []
-#         similarity = self.comparer.similarity
-#         for row in cursor:
-#             quality = similarity(unit_source, row['source'], min_similarity)
-#             if quality >= min_similarity:
-#                 result = dict(row)
-#                 result['quality'] = quality
-#                 stems = []
-#                 for item in row[0].split():
-#                     stems.append(item.split(":")[0].strip("'"))
-#                 result['stem'] = stems
-#                 results.append(result)
-#         results.sort(key=lambda match: match['quality'], reverse=True)
-#         results = results[:max_candidates]
-#         return results
-
     def translate_unit(self, unit_source, source_lang, target_lang,
                        project_style=None, min_similarity=None,
                        max_candidates=None):
@@ -511,29 +449,91 @@ CREATE INDEX targets_%(slang)s_sid_lang_idx ON targets_%(slang)s (sid, lang);
 
         checker = project_checker(project_style, source_lang)
 
+        max_length = current_app.config.get('MAX_LENGTH', 1000)
+        min_similarity = max(min_similarity or current_app.config.get('MIN_SIMILARITY', 70), 30)
+        max_candidates = max_candidates or current_app.config.get('MAX_CANDIDATES', 5)
+
+        source_len = len(unit_source)
+        minlen = min_levenshtein_length(source_len, min_similarity)
+        maxlen = max_levenshtein_length(source_len, min_similarity, max_length)
+
+        minrank = max(min_similarity / 2, 30)
+
         cursor = self.get_cursor()
         query = """
-SELECT * from (SELECT s.vector as stem, s.text AS source, t.text AS target
+SELECT * from (SELECT s.vector as stem, s.text AS source, t.text AS target, TS_RANK(s.vector, query, 32) * 1744.93406073519 AS rank
     FROM sources_%s s JOIN targets_%s t ON s.sid = t.sid,
     TO_TSQUERY(%%(lang_config)s, prepare_ortsquery(%%(search_str)s)) query
-    WHERE t.lang = %%(tlang)s
-    AND s.vector @@ query) sub
+    WHERE t.lang = %%(tlang)s AND s.length BETWEEN %%(minlen)s AND %%(maxlen)s
+    AND s.vector @@ query) sub WHERE rank > %%(minrank)s
+    ORDER BY rank DESC
 """ % (slang, slang)
         cursor.execute(query, {
             'search_str': indexing_version(unit_source, checker),
             'tlang': tlang,
             'lang_config': lang_config,
+            'minrank': minrank,
+            'minlen': minlen,
+            'maxlen': maxlen,
         })
-
         results = []
+        similarity = self.comparer.similarity
         for row in cursor:
-            stems = []
-            for item in row[0].split():
-                stems.append(item.split(":")[0].strip("'"))
-            result = dict(row)
-            result['stem'] = stems
-            results.append(result)
+            quality = similarity(unit_source, row['source'], min_similarity)
+            if quality >= min_similarity:
+                result = dict(row)
+                result['quality'] = quality
+                stems = []
+                for item in row[0].split():
+                    stems.append(item.split(":")[0].strip("'"))
+                result['stem'] = stems
+                results.append(result)
+        results.sort(key=lambda match: match['quality'], reverse=True)
+        results = results[:max_candidates]
         return results
+
+#     def translate_unit(self, unit_source, source_lang, target_lang,
+#                        project_style=None, min_similarity=None,
+#                        max_candidates=None):
+#         """Return TM suggestions for unit_source."""
+#         slang = lang_to_table(source_lang)
+#         if slang not in self.source_langs:
+#             abort(404)
+
+#         tlang = lang_to_table(target_lang)
+#         lang_config = lang_to_config(slang)
+
+#         if slang == tlang:
+#             abort(404)
+
+#         if isinstance(unit_source, str):
+#             unit_source = unicode(unit_source, "utf-8")
+
+#         checker = project_checker(project_style, source_lang)
+
+#         cursor = self.get_cursor()
+#         query = """
+# SELECT * from (SELECT s.vector as stem, s.text AS source, t.text AS target
+#     FROM sources_%s s JOIN targets_%s t ON s.sid = t.sid,
+#     TO_TSQUERY(%%(lang_config)s, prepare_ortsquery(%%(search_str)s)) query
+#     WHERE t.lang = %%(tlang)s
+#     AND s.vector @@ query) sub
+# """ % (slang, slang)
+#         cursor.execute(query, {
+#             'search_str': indexing_version(unit_source, checker),
+#             'tlang': tlang,
+#             'lang_config': lang_config,
+#         })
+
+#         results = []
+#         for row in cursor:
+#             stems = []
+#             for item in row[0].split():
+#                 stems.append(item.split(":")[0].strip("'"))
+#             result = dict(row)
+#             result['stem'] = stems
+#             results.append(result)
+#         return results
 
 
 def min_levenshtein_length(length, min_similarity):
