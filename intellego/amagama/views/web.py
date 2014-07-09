@@ -80,7 +80,7 @@ def translate_html(root, html):
     for word in vocab:
         t_unit = trans[word]
         if len(t_unit) > 0:
-            for m in re.finditer(ur'(?<=>)([\n\s\w]*(%s)[^<]*)' % t_unit[0]['source'], html, re.IGNORECASE):
+            for m in re.finditer(ur'(?<=>)([\n\s\w]*(%s)[^<]*)' % t_unit[0]['source'], html, re.IGNORECASE|re.DOTALL):
                 # group 2 contains the matched source term in the HTML. Group 1 contains the sourounding text. It can be used for analysis.
                 try:
                     print '%02d-%02d: %s : %s : %s' % (m.start(), m.end(), m.group(2).strip(), t_unit[0]['target'], m.group(1).strip())
