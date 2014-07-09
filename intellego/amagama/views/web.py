@@ -73,21 +73,24 @@ def translate_dom_string(root, html):
     return lxml.html.document_fromstring(str(soup))
 
 def translate_html(root, html):
-    raw = nltk.clean_html(html)
-    words = [w.lower() for w in nltk.word_tokenize(raw) if w.isalpha() and len(w) > 2]
+    words = [w.lower() for w in nltk.word_tokenize(root.text_content()) if w.isalpha() and len(w) > 2]
     vocab = sorted(set(words))
     trans = {word: current_app.tmdb.translate_unit(word, 'en', 'es') for word in vocab}
-    print trans
+    print vocab
     for word in vocab:
         t_unit = trans[word]
         if len(t_unit) > 0:
-            for m in re.finditer(t_unit[0]['source']+"(?![^<]*>)", html, flags=re.IGNORECASE):
-                print '%02d-%02d: %s : %s' % (m.start(), m.end(), m.group(0), t_unit[0]['target'])
+            for m in re.finditer(ur'(?<=>)([\n\s\w]*(%s)[^<]*)' % t_unit[0]['source'], html, re.IGNORECASE):
+                # group 2 contains the matched source term in the HTML. Group 1 contains the sourounding text. It can be used for analysis.
+                try:
+                    print '%02d-%02d: %s : %s : %s' % (m.start(), m.end(), m.group(2).strip(), t_unit[0]['target'], m.group(1).strip())
+                except:
+                    pass
                 # check if original source match is upper or lower case, and replace as such.
-                if m.group(0)[0].isupper():
-                    html = re.sub(m.group(0)+"(?![^<]*>)", t_unit[0]['target'].title(), html, count=1, flags=re.IGNORECASE)
+                if m.group(2)[0].isupper():
+                    html = re.sub(m.group(2)+"(?![^<]*>)", t_unit[0]['target'].title(), html, count=1, flags=re.IGNORECASE)
                 else:
-                    html = re.sub(m.group(0)+"(?![^<]*>)", t_unit[0]['target'].lower(), html, count=1, flags=re.IGNORECASE)
+                    html = re.sub(m.group(2)+"(?![^<]*>)", t_unit[0]['target'].lower(), html, count=1, flags=re.IGNORECASE)
                 print '---' 
     return lxml.html.document_fromstring(html)
 
@@ -119,6 +122,6 @@ def get_page():
     html = translate_html(html, lxml.html.tostring(html))
     # dump the html string for debugging
     # with open('html_dump', 'w') as f:
-        # f.write(lxml.html.tostring(html))
+    #     f.write(lxml.html.tostring(html))
     # a little regex to remove any script tags
     return re.subn(r'<(script).*?</\1>(?s)', '', lxml.html.tostring(html))[0]

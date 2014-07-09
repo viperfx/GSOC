@@ -1,0 +1,107 @@
+[u'ability', u'about', u'abuse', u'access', u'accessibility', u'accessible', u'added', u'adding', u'address', u'affiliates', u'all', u'also', u'always', u'and', u'are', u'article', u'articles', u'ask', u'automatically', u'available', u'awesome', u'bar', u'basics', u'blank', u'bookmarked', u'bookmarks', u'browser', u'but', u'can', u'change', u'checker', u'checks', u'choose', u'code', u'common', u'commons', u'contact', u'contain', u'content', u'controls', u'corner', u'covers', u'crashing', u'creative', u'customize', u'date', u'default', u'dictionaries', u'does', u'download', u'downloaded', u'downloading', u'downloads', u'easily', u'easy', u'email', u'engine', u'engines', u'english', u'error', u'facebook', u'favorite', u'features', u'few', u'files', u'find', u'firefox', u'fix', u'for', u'formatting', u'get', u'have', u'help', u'here', u'history', u'home', u'how', u'individual', u'install', u'instead', u'itself', u'keep', u'keyboard', u'know', u'language', u'latest', u'learn', u'legal', u'lets', u'library', u'like', u'limited', u'links', u'load', u'low', u'main', u'make', u'manage', u'manual', u'may', u'messages', u'migration', u'mobile', u'more', u'mozilla', u'need', u'notices', u'one', u'open', u'options', u'other', u'out', u'overview', u'page', u'pages', u'panel', u'pdf', u'persona', u'policy', u'portions', u'print', u'privacy', u'problems', u'question', u'removing', u'report', u'restore', u'right', u'risk', u'search', u'searches', u'security', u'set', u'settings', u'show', u'shows', u'sign', u'site', u'sites', u'skip', u'slowness', u'source', u'spell', u'spelling', u'start', u'started', u'suggests', u'switch', u'tab', u'tabs', u'tap', u'that', u'the', u'them', u'there', u'this', u'those', u'tips', u'top', u'track', u'trademark', u'tricks', u'twitter', u'type', u'under', u'update', u'upgrade', u'use', u'users', u'using', u'version', u'view', u'vision', u'visited', u'want', u'way', u'web', u'websites', u'what', u'when', u'who', u'window', u'with', u'within', u'without', u'word', u'work', u'works', u'you', u'your']
+---
+---
+7521-7568: bookmark : Marcar : Use bookmarks
+---
+9993-10038: bookmark : Marcar : Use bookmarks
+---
+10042-10129: bookmark : Marcar : The basics of using bookmarks
+---
+14613-14797: browser : Navegador : Learn about Firefox features that make the browser and content accessible to those who have low vision, no vision or limited ability to use a keyboard or mouse.
+---
+12990-13029: check : comprobar : How do I use the Firefox spell checker?
+---
+13033-13210: check : comprobar : Firefox automatically checks your spelling as you type. Learn about the options available like adding dictionaries and removing a word added by accident.
+---
+15582-15592: Contact : contacto : Contact Us
+---
+8547-8606: Customize : Personalizar : Customize controls, options and add-ons
+---
+10631-10771: default : predeterminada : By default, Firefox is set to automatically update itself but you can always do a manual update. We'll show you how.
+---
+8072-8123: Download : Descargar : Download, install and migration
+---
+12620-12652: download : Descargar : Find and manage downloaded files
+---
+12656-12820: download : Descargar : The Downloads panel and Library keep track of files you download. We'll show you how to access, manage, change settings and find your files.
+---
+13718-13768: download : Descargar : View PDF files in Firefox without downloading them
+---
+13722-13772: download : Descargar : View PDF files in Firefox without downloading them
+---
+11796-11980: engine : Motor : The Search Bar in the top right corner of the Firefox window lets you make searches and switch search engines right there in Firefox. Learn how to customize it.
+---
+11795-11979: engine : Motor : The Search Bar in the top right corner of the Firefox window lets you make searches and switch search engines right there in Firefox. Learn how to customize it.
+---
+12619-12652: file : Archivo : Find and manage descargared files
+---
+12656-12822: file : Archivo : The descargars panel and Library keep track of files you descargar. We'll show you how to access, manage, change settings and find your files.
+---
+13720-13771: file : Archivo : View PDF files in Firefox without descargaring them
+---
+---
+12619-12655: Find : Buscar : Find and manage descargared archivos
+---
+5770-5774: Home : Inicio : Home
+---
+11389-11413: home : Inicio : How to set the home page
+---
+12665-12837: Library : biblioteca : The descargars panel and Library keep track of archivos you descargar. We'll show you how to access, manage, change settings and find your archivos.
+---
+11421-11553: Load : Cargar : Load your favorite pages in one click. We'll show you how to set your home page or restore the default page.
+---
+12627-12663: manage : Gestionar : Find and manage descargared archivos
+---
+9364-9461: need to : tener que : Learn all you need to know to get started with Firefox.
+---
+---
+2755-2769: search : Buscar : Skip to search
+---
+5220-5226: Search : Buscar : Search
+---
+11746-11799: Search : Buscar : Search bar - Easily choose your favorite search motor
+---
+11803-11986: search : Buscar : The Search Bar in the top right corner of the Firefox window lets you make searches and switch search motors right there in Firefox. Learn how to customize it.
+---
+11803-11986: search : Buscar : The Search Bar in the top right corner of the Firefox window lets you make searches and switch search motors right there in Firefox. Learn how to customize it.
+---
+8319-8368: set : Definir : Privacy and security settings
+---
+11393-11419: set : Definir : How to set the inicio page
+---
+13444-13552: set : Definir : This articles covers the basics of print settings and formatting options in Firefox.
+---
+13456-13564: settings : ajustes : This articles covers the basics of print settings and formatting options in Firefox.
+---
+3080-3141: site : Sitio : Tap here to go to the mobile version of the site.
+---
+13430-13451: site : Sitio : How to print websites
+---
+---
+16816-16837: site : Sitio : Switch to mobile site
+---
+13434-13455: site : Sitio : How to print websites
+---
+---
+16820-16841: site : Sitio : Switch to mobile site
+---
+16218-16229: Source : Origen : Source Code
+---
+9369-9468: start : Iniciar : Learn all you tener que know to get started with Firefox.
+---
+10980-11039: start : Iniciar : Get started with Firefox - An overview of the main features
+---
+9373-9472: start : Iniciar : Learn all you tener que know to get started with Firefox.
+---
+10984-11043: start : Iniciar : Get started with Firefox - An overview of the main features
+---
+---
+---
+3082-3144: Tap : pulsar : Tap here to go to the mobile version of the sitio.
+---
+10620-10656: Update : Actualizar : Update Firefox to the latest version
+---
+3713-3744: Upgrade : Ampliar : Upgrade Firefox
+---
+13784-13838: View : Vista : View PDF archivos in Firefox without descargaring them
+---
