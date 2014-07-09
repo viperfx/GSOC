@@ -88,9 +88,9 @@ def translate_html(root, html):
                     pass
                 # check if original source match is upper or lower case, and replace as such.
                 if m.group(2)[0].isupper():
-                    html = re.sub(m.group(2)+"(?![^<]*>)", t_unit[0]['target'].title(), html, count=1, flags=re.IGNORECASE)
+                    html = re.sub(r'\b%s(s\b|\b)(?![^<]*>)' % m.group(2), t_unit[0]['target'].title(), html, count=1, flags=re.IGNORECASE)
                 else:
-                    html = re.sub(m.group(2)+"(?![^<]*>)", t_unit[0]['target'].lower(), html, count=1, flags=re.IGNORECASE)
+                    html = re.sub(r'\b%s(s\b|\b)(?![^<]*>)' % m.group(2), t_unit[0]['target'].lower(), html, count=1, flags=re.IGNORECASE)
                 print '---' 
     return lxml.html.document_fromstring(html)
 
