@@ -738,7 +738,7 @@
         </langSet>
         <langSet xml:lang="es">
           <tig>
-            <term>predeterminada/o</term>
+            <term>predeterminada</term>
           </tig>
         </langSet>
       </termEntry>
@@ -4741,12 +4741,24 @@
       <termEntry id="706c2cf4-4888-4c41-8c20-fd461e13d3b1">
         <langSet xml:lang="en">
           <tig>
-            <term>online/offline</term>
+            <term>online</term>
           </tig>
         </langSet>
         <langSet xml:lang="es">
           <tig>
-            <term>conectado/desconectado</term>
+            <term>conectado</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="706c2cf4-4888-4c41-8c20-fd461e13d3b1">
+        <langSet xml:lang="en">
+          <tig>
+            <term>offline</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>desconectado</term>
           </tig>
         </langSet>
       </termEntry>

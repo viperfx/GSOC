@@ -82,20 +82,14 @@ def translate_html(root, html):
         t_unit = trans[word]
         if len(t_unit) > 0:
             for m in re.finditer(t_unit[0]['source']+"(?![^<]*>)", html, flags=re.IGNORECASE):
-                print '%02d-%02d: %s' % (m.start(), m.end(), m.group(0))
+                print '%02d-%02d: %s : %s' % (m.start(), m.end(), m.group(0), t_unit[0]['target'])
+                # check if original source match is upper or lower case, and replace as such.
                 if m.group(0)[0].isupper():
                     html = re.sub(m.group(0)+"(?![^<]*>)", t_unit[0]['target'].title(), html, count=1, flags=re.IGNORECASE)
                 else:
                     html = re.sub(m.group(0)+"(?![^<]*>)", t_unit[0]['target'].lower(), html, count=1, flags=re.IGNORECASE)
-                print '---'
-            # find occurence of source and replace with target, if found between html tags
-            
+                print '---' 
     return lxml.html.document_fromstring(html)
-
-@web_ui.route('/translate_text', methods=('POST',))
-def translate_innerText():
-    print request.values
-    return True
 
 @web_ui.route('/get_page', methods=('GET',))
 def get_page():
