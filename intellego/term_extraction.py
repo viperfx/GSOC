@@ -21,13 +21,13 @@ def main():
             # print e_token, k_token, nltk.pos_tag(e_token), nltk.pos_tag(k_token)
             if len(e_token) > 0 and len(k_token) > 0:
                 corpus.append(nltk.align.AlignedSent(e_token, k_token))
-            count += 1
-            if count > 500:
-                break
+            # count += 1
+            # if count > 1000:
+                # break
     model = nltk.align.IBMModel2(corpus,3)
     # print model.align(corpus[1])
     for k,v in model.probabilities.items():
-        if max(v.values()) >= 0.5:
+        if max(v.values()) >= 0.5 and k.encode('utf-8') != max(v, key=v.get).encode('utf-8'):
             print k.encode('utf-8'),max(v, key=v.get).encode('utf-8'), max(v.values())
 if __name__ == '__main__':
     main()
