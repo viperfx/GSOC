@@ -73,7 +73,8 @@ def translate_dom_string(root, html):
     return lxml.html.document_fromstring(str(soup))
 
 def translate_html(root, html):
-    words = [w.lower() for w in nltk.word_tokenize(root.text_content()) if w.isalpha() and len(w) > 2]
+    text = nltk.clean_html(html)
+    words = [w.lower() for w in nltk.word_tokenize(text) if w.isalpha() and len(w) > 2]
     vocab = sorted(set(words))
     trans = {word: current_app.tmdb.translate_unit(word, 'en', 'es') for word in vocab}
     print vocab
