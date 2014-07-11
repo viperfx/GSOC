@@ -15,12 +15,14 @@ def main():
     corpus = []
     count = 0
     # iterate through the segment pairs
+    stopwords_en = nltk.corpus.stopwords.words('english')
+    stopwords_es = nltk.corpus.stopwords.words('spanish')
     for e,k in pairs: 
         # eliminate any segments that have non alpha terms and terms which are 1 char long
         if (e.text and len(e.text)>1) and (k.text and len(k.text)>1):
             # split the words of the segment into a list
-            e_token = [w.lower() for w in nltk.word_tokenize(unicode(e.text))]
-            k_token = [x.lower() for x in nltk.word_tokenize(unicode(k.text))]
+            e_token = [w.lower() for w in nltk.word_tokenize(unicode(e.text)) if w.lower() not in stopwords_en]
+            k_token = [x.lower() for x in nltk.word_tokenize(unicode(k.text)) if x.lower() not in stopwords_es]
             # add the token list the corpus
             if ''.join(e_token).isalpha() and ''.join(k_token).isalpha():
                 if len(e_token) > 0 and len(k_token) > 0:
