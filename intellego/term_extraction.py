@@ -32,9 +32,10 @@ def main():
     # train the aligned corpus to figure out which pairs of words match
     model = nltk.align.IBMModel2(corpus,3)
     # iterate through the model
+    print "%s,%s,%s" % ("source", "target", "precision")
     for k,v in model.probabilities.items():
         # print the term pair if the precision is >=0.5 and not the same string
         if max(v.values()) >= 0.5 and k.encode('utf-8') != max(v, key=v.get).encode('utf-8'):
-            print k.encode('utf-8'),max(v, key=v.get).encode('utf-8'), max(v.values())
+            print "%s,%s,%s" % (k.encode('utf-8'),max(v, key=v.get).encode('utf-8'), max(v.values()))
 if __name__ == '__main__':
     main()
