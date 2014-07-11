@@ -8,10 +8,6 @@ def main():
     tmx_file = open('../memoire_en-US_es-ES.tmx', 'r')
     # Parse the TMX file into python objects
     tmx_tree = etree.parse(tmx_file)
-    # tree = [nltk.word_tokenize(unicode(e.text)) for e in tmx_tree.iter("seg") if e.text and len(e.text) > 1]
-    # tree = [e for e in tree if len(e) > 0]
-    # pairs = zip(tree, tree[1:])[::2]
-    # print pairs[:10]
     # create a list of the "seg" elements, where our segments are contained
     tree = [e for e in tmx_tree.iter("seg")]
     # Pair these segments up and put them into a list
@@ -35,7 +31,6 @@ def main():
             # break
     # train the aligned corpus to figure out which pairs of words match
     model = nltk.align.IBMModel2(corpus,3)
-    # print model.align(corpus[1])
     # iterate through the model
     for k,v in model.probabilities.items():
         # print the term pair if the precision is >=0.5 and not the same string
