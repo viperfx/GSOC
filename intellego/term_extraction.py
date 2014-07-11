@@ -4,29 +4,41 @@ from lxml import etree
 
 
 def main():
+    # open the tmx file
     tmx_file = open('../memoire_en-US_es-ES.tmx', 'r')
+    # Parse the TMX file into python objects
     tmx_tree = etree.parse(tmx_file)
     # tree = [nltk.word_tokenize(unicode(e.text)) for e in tmx_tree.iter("seg") if e.text and len(e.text) > 1]
     # tree = [e for e in tree if len(e) > 0]
     # pairs = zip(tree, tree[1:])[::2]
     # print pairs[:10]
+    # create a list of the "seg" elements, where our segments are contained
     tree = [e for e in tmx_tree.iter("seg")]
+    # Pair these segments up and put them into a list
     pairs = zip(tree, tree[1:])[::2]
     corpus = []
     count = 0
+    # iterate through the segment pairs
     for e,k in pairs: 
-        if (e.text and e.text.isalpha() and len(e.text)>1) and (k.text and k.text.isalpha() and len(k.text)>1):
+        # eliminate any segments that have non alpha terms and terms which are 1 char long
+        if (e.text and len(e.text)>1) and (k.text and len(k.text)>1):
+            # split the words of the segment into a list
             e_token = nltk.word_tokenize(unicode(e.text))
             k_token = nltk.word_tokenize(unicode(k.text))
-            # print e_token, k_token, nltk.pos_tag(e_token), nltk.pos_tag(k_token)
-            if len(e_token) > 0 and len(k_token) > 0:
-                corpus.append(nltk.align.AlignedSent(e_token, k_token))
-            # count += 1
-            # if count > 1000:
-                # break
+            # add the token list the corpus
+            if ''.join(e_token).isalpha() and ''.join(k_token).isalpha():
+                if len(e_token) > 0 and len(k_token) > 0:
+                    # print e.text, e_token, k_token
+                    corpus.append(nltk.align.AlignedSent(e_token, k_token))
+        # count += 1
+        # if count > 30:
+            # break
+    # train the aligned corpus to figure out which pairs of words match
     model = nltk.align.IBMModel2(corpus,3)
     # print model.align(corpus[1])
+    # iterate through the model
     for k,v in model.probabilities.items():
+        # print the term pair if the precision is >=0.5 and not the same string
         if max(v.values()) >= 0.5 and k.encode('utf-8') != max(v, key=v.get).encode('utf-8'):
             print k.encode('utf-8'),max(v, key=v.get).encode('utf-8'), max(v.values())
 if __name__ == '__main__':
