@@ -19,8 +19,8 @@ def main():
         # eliminate any segments that have non alpha terms and terms which are 1 char long
         if (e.text and len(e.text)>1) and (k.text and len(k.text)>1):
             # split the words of the segment into a list
-            e_token = nltk.word_tokenize(unicode(e.text))
-            k_token = nltk.word_tokenize(unicode(k.text))
+            e_token = [w.lower() for w in nltk.word_tokenize(unicode(e.text))]
+            k_token = [x.lower() for x in nltk.word_tokenize(unicode(k.text))]
             # add the token list the corpus
             if ''.join(e_token).isalpha() and ''.join(k_token).isalpha():
                 if len(e_token) > 0 and len(k_token) > 0:
