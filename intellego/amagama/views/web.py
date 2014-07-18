@@ -30,7 +30,7 @@ from cssselect import HTMLTranslator
 from amagama import tmdb
 import nltk
 import re
-from bs4 import BeautifulSoup,NavigableString
+from bs4 import BeautifulSoup, NavigableString
 import pdb
 web_ui = Blueprint('web_ui', __name__, static_folder='static')
 
@@ -52,6 +52,7 @@ def translate_url():
     """ POST method for getting URL from form and process"""
     return render_template("frame.html", url=request.args.get('url'))
 
+
 def translate_dom_string(root, html):
     raw = nltk.clean_html(html)
     words = [w.lower() for w in nltk.word_tokenize(raw) if w.isalpha() and len(w) > 2]
@@ -72,16 +73,20 @@ def translate_dom_string(root, html):
     print vocab
     return lxml.html.document_fromstring(str(soup))
 
+
 def translate_html(root, html):
-    text = nltk.clean_html(html)
+    soup = BeautifulSoup(html)
+    text = soup.get_text()
     words = [w.lower() for w in nltk.word_tokenize(text) if w.isalpha() and len(w) > 2]
     vocab = sorted(set(words))
     trans = {word: current_app.tmdb.translate_unit(word, 'en', 'es') for word in vocab}
     print vocab
     for word in vocab:
+        if word == 'bookmarks':
+            print t_unit
         t_unit = trans[word]
         if len(t_unit) > 0:
-            for m in re.finditer(ur'(?<=>)([\n\s\w]*(%s)[^<]*)' % t_unit[0]['source'], html, re.IGNORECASE|re.DOTALL):
+            for m in re.finditer(ur'(?<=>)([\n\s\w]*(%s)[^<]*)' % t_unit[0]['source'], html, re.IGNORECASE | re.DOTALL):
                 # group 2 contains the matched source term in the HTML. Group 1 contains the sourounding text. It can be used for analysis.
                 try:
                     print '%02d-%02d: %s : %s : %s' % (m.start(), m.end(), m.group(2).strip(), t_unit[0]['target'], m.group(1).strip())
@@ -89,11 +94,12 @@ def translate_html(root, html):
                     pass
                 # check if original source match is upper or lower case, and replace as such.
                 if m.group(2)[0].isupper():
-                    html = re.sub(r'\b%s(s\b|\b)(?![^<]*>)' % m.group(2), t_unit[0]['target'].title(), html, count=1, flags=re.IGNORECASE)
+                    html = re.sub(r'\b%s(s\b|\b)(?![^<]*>)' % m.group(2), t_unit[0]['target'].title(), html, flags=re.IGNORECASE)
                 else:
-                    html = re.sub(r'\b%s(s\b|\b)(?![^<]*>)' % m.group(2), t_unit[0]['target'].lower(), html, count=1, flags=re.IGNORECASE)
-                print '---' 
+                    html = re.sub(r'\b%s(s\b|\b)(?![^<]*>)' % m.group(2), t_unit[0]['target'].lower(), html, flags=re.IGNORECASE)
+                print '---'
     return lxml.html.document_fromstring(html)
+
 
 @web_ui.route('/get_page', methods=('GET',))
 def get_page():
