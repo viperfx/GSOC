@@ -116,8 +116,8 @@ def pos_tag_process(source, target, outer):
         elif tagged_en in ["NNS", "NNPS"]:
             # this is a singlar target word
             out = pluralize_es(target)
-        print '%s-%s: %s : %s' % (tagged_en, tagged_es, source, out)
-        print '---'
+        # print '%s-%s: %s : %s' % (tagged_en, tagged_es, source, out)
+        # print '---'
     return out
 
 
