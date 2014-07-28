@@ -34,6 +34,8 @@ def main():
             if ''.join(e_token).isalpha() and ''.join(k_token).isalpha():
                 if len(e_token) > 0 and len(k_token) > 0:
                     # print e.text, e_token, k_token
+                    # if 'articles' in e_token:
+                        # print e.text, e_token, k_token
                     corpus.append(nltk.align.AlignedSent(e_token, k_token))
         # count += 1
         # if count > 30:
@@ -41,13 +43,16 @@ def main():
     for e, k in pairs:
         # eliminate any segments that have non alpha terms and terms which are 1 char long
         if (e.text and len(e.text) > 1) and (k.text and len(k.text) > 1):
+            # split the words of the segment into a list. Lowercase all the tokens and elimate any stopwords
+            e_token = [w.lower() for w in nltk.word_tokenize(unicode(e.text)) if w.lower() not in stopwords_en]
+            k_token = [x.lower() for x in nltk.word_tokenize(unicode(k.text)) if x.lower() not in stopwords_es]
             # add the token list the corpus
             if ''.join(e_token).isalpha() and ''.join(k_token).isalpha():
                 if len(e_token) > 0 and len(k_token) > 0:
                     source_out, target_out = pos_realign(" ".join(e_token), " ".join(k_token))
                     corpus.append(nltk.align.AlignedSent(source_out, target_out))
     # train the aligned corpus to figure out which pairs of words match
-    model = nltk.align.IBMModel2(corpus, 3)
+    model = nltk.align.IBMModel2(corpus, 2)
     # iterate through the model
     print "%s,%s,%s" % ("source", "target", "precision")
     for k, v in model.probabilities.items():
@@ -58,8 +63,6 @@ def main():
 
 
 def pos_realign(source, target):
-    # source = "Click here to remove all expired articles"
-    # target = "Haga clic aquí para eliminar todos los artículos caducados"
     source = parse_en(source, relations=True, lemmata=True)
     target = parse_es(target, relations=True, lemmata=True)
     # pprint_en(source)
@@ -85,3 +88,4 @@ def pos_realign(source, target):
 
 if __name__ == '__main__':
     main()
+    # print pos_realign("Click here to remove all expired articles", "Haga clic aquí para eliminar todos los artículos caducados")
