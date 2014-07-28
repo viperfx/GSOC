@@ -50,4 +50,4 @@ def amagama_server_factory():
     return app
 
 if __name__ == '__main__':
-    amagama_server_factory().run(port=8888)
+    amagama_server_factory().run(port=8181, host='0.0.0.0')
