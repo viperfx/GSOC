@@ -14,6 +14,9 @@ You can view my progress on the project on this [blog](http://tharshan-gsoc.logd
 | NLTK align | intellego/align |  This contains the NLTK align module with some minor modifications. |
 | Terminology File | memoire_en-US_es-ES.tmx | TMX file downloaded from the [Transvision](http://transvision.mozfr.org/downloads/) project.|
 
+##Translation Interface
+The final deliverable along with this project other than the command line script is a web interface to be able to connect all the work I have done. This web interface has a text area input to translate words individually and a URL input to translate web pages.
+
 ##Terminology Extraction Script
 This script takes a TMX files as an input and can create various outputs based on the commmand line options given. The script uses NLTK and Pattern to analyse the contents of the TMX file to build up a corpus of aligned sentenences. The IBMModel2 in the NLTK Align module is used to build up a model with the aligned corpus. The model contains a mapping of source words to target words with a precision value. The precision value ranges from 0.0 to 1.0, the higher the better.
 ```
