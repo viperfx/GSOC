@@ -3,3 +3,14 @@ blinker>=0.9
 Flask>=0.8
 psycopg2>=2.2
 translate-toolkit>=1.8.0
+click==3.0
+cloud==2.8.5
+Pattern==2.6
+beautifulsoup4==4.3.2
+lxml==3.3.5
+nltk==3.0b1
+numpy==1.8.0
+psycopg2==2.5.3
+python-Levenshtein==0.11.2
+requests==2.2.1
+translate-toolkit==1.11.0
