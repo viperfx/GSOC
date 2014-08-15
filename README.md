@@ -26,6 +26,7 @@ amaGama has mostly remained unchanged and only used as an API to query the datab
 
 ##Setup Instructions
 All the dependancies are included in the project. Using these steps, this project can be hosted on a server.
+
 1. Clone the project
 2. Create a virtualenv and `pip install intellego/requirements/recommended.txt`
 3. Setup paths using `source intellego\pathfix.sh`
