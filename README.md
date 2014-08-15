@@ -17,6 +17,22 @@ You can view my progress on the project on this [blog](http://tharshan-gsoc.logd
 ##Translation Interface
 The final deliverable along with this project other than the command line script is a web interface to be able to connect all the work I have done. This web interface has a text area input to translate words individually and a URL input to translate web pages.
 
+The amaGama project has been extended for our purposes. We chose to use amaGama because it had a way to store bilingual terminology along with a simple REST API to query the database. Detailed changes to the amaGama project can be viewed [here](https://github.com/viperfx/GSOC/commits/master/intellego/amagama). Initially the levenstein distance ranking done in `tmdb.py` was removed during the initial stages of the project. Now the `translate_unit` has been returned to the orginal version found in amaGama. The sensistivity of the ranking can be tuned through variables such as `MIN_SIMILARITY` found in `settings.py`.
+
+![Test](http://cl.ly/image/2Y19130Z0o11/Screen%20Shot%202014-08-15%20at%2016.02.27.png)
+
+amaGama has mostly remained unchanged and only used as an API to query the database. `views/web.py` contains Flask views for the web interface for the project, where the user can translate a piece of text or a web page.
+
+
+##Setup Instructions
+All the dependancies are included in the project. Using these steps, this project can be hosted on a server.
+1. Clone the project
+2. Create a virtualenv and `pip install intellego/requirements/recommended.txt`
+3. Setup paths using `source intellego\pathfix.sh`
+4. The project already has extracted terminology. You can use the provided `import.sh` script to import them or modify it to import another terminology file you may have created using the script.
+5. This project required the use of a postgres database. Make sure the database is setup for amaGama. Instructions can be found [here](http://docs.translatehouse.org/projects/amagama/en/latest/installation.html).
+5. The application can be run using `python amagama/application.py` inside the intellego directory.
+
 ##Terminology Extraction Script
 This script takes a TMX files as an input and can create various outputs based on the commmand line options given. The script uses NLTK and Pattern to analyse the contents of the TMX file to build up a corpus of aligned sentenences. The IBMModel2 in the NLTK Align module is used to build up a model with the aligned corpus. The model contains a mapping of source words to target words with a precision value. The precision value ranges from 0.0 to 1.0, the higher the better.
 ```
