@@ -26,7 +26,6 @@ amaGama has mostly remained unchanged and only used as an API to query the datab
 
 ##Setup Instructions
 All the dependancies are included in the project. Using these steps, this project can be hosted on a server.
-
 1. Clone the project
 2. Create a virtualenv and `pip install intellego/requirements/recommended.txt`
 3. Setup paths using `source intellego\pathfix.sh`
@@ -54,3 +53,10 @@ Options:
 | term_extraction_realign2.csv | The latest result of the term extraction tool. |
 | term_extraction_realign.csv | The term extraction result that includes only the POS tagger. |
 | debug_corpus.json | This JSON file contains bilingual terminology with metadata that would help to quickly cross check translations. It includes the TUID from the TMX file for each source word. |
+
+##Glossary
+TMX - TMX is the [LISA OSCAR standard](http://www.gala-global.org/lisa-oscar-standards) for translation memories)
+
+In our project the TBX file was obtained from [Transvision](http://transvision.mozfr.org/downloads/) containing translated sentences. The Terminology Extraction script uses the TMX files to align the translated pairs of segments and extract the aligned terminology.
+
+TBX - TBX is the [LISA OSCAR standard](http://www.gala-global.org/lisa-oscar-standards) for terminology and term exchange. More information can be found [here](http://translate-toolkit.readthedocs.org/en/latest/formats/tbx.html).
